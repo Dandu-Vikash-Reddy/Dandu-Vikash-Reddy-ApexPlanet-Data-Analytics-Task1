@@ -1,0 +1,2220 @@
+﻿Order_ID Order_DateCustomer_ICDustomer_NAagme e Gender City Product Category
+ORD1000022025-02-25CUST5529 Customer_227 30 Female Bengaluru Rice Grocery
+ORD1000032025-10-14CUST3127 Customer_182 63 Male Bengaluru Book Education
+ORD1000042025-05-13CUST8887 Customer_487 62 Female Bengaluru Book Education
+ORD1000052025-12-02CUST2515 Customer_470 65 Female Kolkata Mobile Electronics
+ORD1000062025-11-20CUST4796 Customer_380 44 Male Bengaluru Rice Grocery
+ORD1000072025-12-31CUST3952 Customer_71 40 Female HyderabadLaptop Electronics
+ORD1000082025-10-14CUST1758 Customer_335 61 Male Patna Mobile Electronics
+ORD1000092025-12-05CUST9622 Customer_224 35 Male Kolkata Laptop Electronics
+ORD1000102025-11-21CUST9770 Customer_494 41 Female Mumbai Book Education
+ORD1000112025-04-16CUST1312 Customer_40 30 Male Kolkata Mobile Electronics
+ORD1000122025-05-05CUST9642 Customer_162 51 Male Delhi Shoes Fashion
+ORD1000132025-05-02CUST3228 Customer_209 55 Female Patna Chair Furniture
+ORD1000142025-05-06CUST1038 Customer_454 32 Male Patna Rice Grocery
+ORD1000152025-04-24CUST6413 Customer_490 50 Female Patna Shoes Fashion
+ORD1000162025-03-12CUST8660 Customer_213 42 Female Patna Mobile Electronics
+ORD1000172025-08-30CUST9307 Customer_313 36 Female Delhi Shoes Fashion
+ORD1000182025-11-30CUST4363 Customer_161 30 Female Delhi Book Education
+ORD1000192025-10-19CUST3508 Customer_67 31 Male Gaya Shoes Fashion
+ORD1000202025-07-24CUST5806 Customer_103 57 Female Mumbai Chair Furniture
+ORD1000212025-03-20CUST6504 Customer_357 34 Male Kolkata Laptop Electronics
+ORD1000222025-03-18CUST8908 Customer_190 65 Male Pune Shoes Fashion
+ORD1000232025-10-04CUST2903 Customer_122 31 Female Mumbai Book Education
+ORD1000242025-11-23CUST1406 Customer_499 52 Male Gaya Shoes Fashion
+ORD1000252025-09-14CUST8036 Customer_173 44 Male Patna Laptop Electronics
+ORD1000262025-03-16CUST6532 Customer_348 30 Male Pune Rice Grocery
+ORD1000272025-04-10CUST2482 Customer_183 65 Male Mumbai Book Education
+ORD1000282025-08-01CUST2003 Customer_48 35 Female Mumbai Rice Grocery
+ORD1000292025-08-10CUST6149 Customer_181 32 Female Patna Laptop Electronics
+ORD1000302025-02-05CUST3688 Customer_205 38 Female Bengaluru Mobile Electronics
+ORD1000312025-08-09CUST3212 Customer_415 33 Male Gaya Rice Grocery
+ORD1000322025-05-13CUST5063 Customer_50 33 Female Mumbai Mobile Electronics
+ORD1000332025-10-22CUST9565 Customer_350 21 Female Mumbai Book Education
+ORD1000342025-12-04CUST9325 Customer_352 44 Female Mumbai Laptop Electronics
+ORD1000352025-05-03CUST4002 Customer_388 18 Female Gaya Laptop Electronics
+ORD1000362025-03-08CUST8975 Customer_315 36 Female Gaya Mobile Electronics
+ORD1000372025-02-07CUST2669 Customer_151 46 Male Bengaluru Laptop Electronics
+ORD1000382025-02-20CUST5869 Customer_415 23 Male Delhi Chair Furniture
+ORD1000392025-10-20CUST7249 Customer_144 29 Male Kolkata Rice Grocery
+ORD1000402025-03-07CUST7465 Customer_345 58 Female Bengaluru Shoes Fashion
+ORD1000412025-04-21CUST7988 Customer_383 39 Female Mumbai Shoes Fashion
+ORD1000422025-05-31CUST9953 Customer_484 50 Female HyderabadMobile Electronics
+ORD1000432025-04-20CUST6938 Customer_344 43 Female Kolkata Mobile Electronics
+ORD1000442025-09-22CUST3006 Customer_256 58 Male Patna Chair Furniture
+
+
+
+ORD1000452025-07-04CUST5151 Customer_409 55 Female Bengaluru Rice Grocery
+ORD1000462025-04-26CUST5903 Customer_396 27 Female HyderabadShoes Fashion
+ORD1000472025-05-11CUST4943 Customer_198 34 Male Mumbai Rice Grocery
+ORD1000482025-09-02CUST4750 Customer_78 42 Female Delhi Mobile Electronics
+ORD1000492025-10-25CUST2705 Customer_117 55 Male Kolkata Mobile Electronics
+ORD1000502025-10-03CUST5523 Customer_432 Male Pune Chair Furniture
+ORD1000512025-02-27CUST1557 Customer_87 39 Female Mumbai Chair Furniture
+ORD1000522025-09-09CUST2062 Customer_254 58 Male Patna Book Education
+ORD1000532025-06-08CUST9203 Customer_70 33 Male Delhi Laptop Electronics
+ORD1000542025-07-07CUST8053 Customer_408 58 Male Delhi Rice Grocery
+ORD1000552025-04-16CUST1017 Customer_387 42 Female Pune Shoes Fashion
+ORD1000562025-11-16CUST2690 Customer_11 26 Male Delhi Book Education
+ORD1000572025-12-07CUST2791 Customer_20 58 Female Bengaluru Laptop Electronics
+ORD1000582025-03-12CUST4496 Customer_53 18 Female Bengaluru Chair Furniture
+ORD1000592025-12-12CUST8811 Customer_115 50 Female Bengaluru Chair Furniture
+ORD1000602025-01-15CUST2411 Customer_292 47 Female Mumbai Mobile Electronics
+ORD1000612025-11-08CUST2350 Customer_205 46 Male Pune Mobile Electronics
+ORD1000622025-07-06CUST9745 Customer_48 27 Male Mumbai Shoes Fashion
+ORD1000632025-07-15CUST6236 Customer_312 43 Female Kolkata Laptop Electronics
+ORD1000642025-09-26CUST1887 Customer_209 21 Male HyderabadChair Furniture
+ORD1000652025-05-16CUST5386 Customer_125 47 Male Gaya Rice Grocery
+ORD1000662025-07-25CUST8065 Customer_92 53 Male Kolkata Mobile Electronics
+ORD1000672025-01-30CUST8841 Customer_407 36 Female Patna Book Education
+ORD1000682025-02-25CUST5871 Customer_335 39 Female Delhi Chair Furniture
+ORD1000692025-06-24CUST9869 Customer_394 40 Female HyderabadBook Education
+ORD1000702025-08-15CUST9017 Customer_51 26 Female Delhi Book Education
+ORD1000712025-10-21CUST1808 Customer_150 56 Male Patna Chair Furniture
+ORD1000722025-08-25CUST2565 Customer_360 52 Female HyderabadShoes Fashion
+ORD1000732025-06-19CUST4958 Customer_160 45 Male Gaya Rice Grocery
+ORD1000742025-12-04CUST7587 Customer_223 27 Male Pune Laptop Electronics
+ORD1000752025-03-30CUST2157 Customer_31 58 Male Mobile Electronics
+ORD1000762025-12-30CUST8430 Customer_277 45 Male Gaya Laptop Electronics
+ORD1000772025-12-27CUST1956 Customer_317 22 Female Bengaluru Shoes Fashion
+ORD1000782025-04-14CUST9846 Customer_298 58 Female Patna Book Education
+ORD1000792026-01-01CUST4706 Customer_34 62 Female Delhi Rice Grocery
+ORD1000802025-08-21CUST5607 Customer_265 61 Female Gaya Rice Grocery
+ORD1000812025-03-05CUST8211 Customer_62 19 Female Gaya Chair Furniture
+ORD1000822025-09-01CUST5367 Customer_499 25 Female HyderabadBook Education
+ORD1000832025-01-06CUST8346 Customer_384 30 Male HyderabadLaptop Electronics
+ORD1000842025-10-24CUST7484 Customer_478 36 Male Gaya Book Education
+ORD1000852025-03-07CUST7911 Customer_7 59 Male Delhi Mobile Electronics
+ORD1000862025-08-24CUST4229 Customer_234 51 Male HyderabadBook Education
+ORD1000872025-03-17CUST2290 Customer_195 56 Male Mumbai Book Education
+ORD1000882025-12-17CUST1246 Customer_165 59 Female Kolkata Mobile Electronics
+
+
+
+ORD1000892025-04-16CUST3689 Customer_179 44 Female Delhi Laptop Electronics
+ORD1000902025-10-29CUST7476 Customer_45 21 Female HyderabadBook Education
+ORD1000912025-12-15CUST7037 Customer_45 34 Male Mumbai Rice Grocery
+ORD1000922025-12-24CUST8578 Customer_154 48 Male Kolkata Laptop Electronics
+ORD1000932025-04-28CUST6618 Customer_311 19 Male Pune Shoes Fashion
+ORD1000942025-11-07CUST4650 Customer_370 32 Male Delhi Shoes Fashion
+ORD1000952025-02-19CUST5091 Customer_375 47 Male Bengaluru Rice Grocery
+ORD1000962025-05-31CUST2190 Customer_318 38 Male HyderabadRice Grocery
+ORD1000972025-11-12CUST7277 Customer_320 62 Female Mumbai Shoes Fashion
+ORD1000982025-01-22CUST8623 Customer_84 32 Male HyderabadMobile Electronics
+ORD1000992025-02-13CUST5232 Customer_395 54 Male Gaya Mobile Electronics
+ORD1001002025-11-02CUST7462 Customer_379 Male Patna Laptop Electronics
+ORD1001012025-10-05CUST7588 Customer_67 47 Male Pune Rice Grocery
+ORD1001022025-12-19CUST5005 Customer_176 20 Female Kolkata Book Education
+ORD1001032025-01-14CUST3210 Customer_15 43 Female Mumbai Laptop Electronics
+ORD1001042025-12-12CUST5926 Customer_308 54 Male Gaya Chair Furniture
+ORD1001052025-11-23CUST3809 Customer_394 44 Female Gaya Book Education
+ORD1001062025-10-26CUST2079 Customer_35 44 Male Mumbai Chair Furniture
+ORD1001072025-08-09CUST4881 Customer_389 32 Male Patna Book Education
+ORD1001082025-03-20CUST6707 Customer_420 33 Male Pune Mobile Electronics
+ORD1001092025-09-18CUST2796 Customer_471 29 Male Patna Book Education
+ORD1001102025-10-15CUST5524 Customer_154 44 Male HyderabadChair Furniture
+ORD1001112025-09-04CUST9882 Customer_103 28 Female Kolkata Laptop Electronics
+ORD1001122025-03-01CUST3001 Customer_341 32 Male Gaya Laptop Electronics
+ORD1001132025-01-17CUST5433 Customer_355 49 Male Delhi Book Education
+ORD1001142025-07-11CUST3794 Customer_315 35 Female HyderabadBook Education
+ORD1001152025-09-09CUST2345 Customer_302 48 Male Bengaluru Book Education
+ORD1001162025-02-13CUST8316 Customer_121 63 Female HyderabadLaptop Electronics
+ORD1001172025-03-27CUST9354 Customer_241 46 Female Patna Rice Grocery
+ORD1001182025-09-18CUST2871 Customer_8 33 Female Delhi Chair Furniture
+ORD1001192025-04-10CUST7341 Customer_457 49 Female HyderabadMobile Electronics
+ORD1000502025-01-22CUST3194 Customer_114 34 Male Kolkata Book Education
+ORD1001212025-05-19CUST9563 Customer_166 24 Male Gaya Book Education
+ORD1001222025-12-22CUST2286 Customer_298 39 Female Patna Laptop Electronics
+ORD1001232025-11-20CUST2423 Customer_376 23 Male HyderabadMobile Electronics
+ORD1001242025-07-08CUST2378 Customer_95 53 Male HyderabadShoes Fashion
+ORD1001252025-01-14CUST6995 Customer_374 33 Male HyderabadBook Education
+ORD1001262025-06-13CUST3677 Customer_459 34 Female Patna Shoes Fashion
+ORD1001272025-01-14CUST6627 Customer_353 57 Male Patna Rice Grocery
+ORD1001282025-12-04CUST6238 Customer_258 55 Male Gaya Rice Grocery
+ORD1001292025-03-04CUST8352 Customer_400 44 Male Gaya Laptop Electronics
+ORD1001302025-03-09CUST2870 Customer_495 33 Male Patna Mobile Electronics
+ORD1001312025-11-29CUST4751 Customer_260 20 Male Patna Rice Grocery
+ORD1001322025-01-17CUST7031 Customer_224 37 Female Gaya Shoes Fashion
+
+
+
+ORD1001332025-03-25CUST8366 Customer_355 65 Female Bengaluru Book Education
+ORD1001342025-02-10CUST2863 Customer_375 34 Female Patna Mobile Electronics
+ORD1001352025-03-10CUST8298 Customer_489 45 Female Delhi Mobile Electronics
+ORD1001362025-03-21CUST9577 Customer_302 46 Male Mumbai Laptop Electronics
+ORD1001372025-05-30CUST3054 Customer_96 28 Female Mumbai Chair Furniture
+ORD1001382025-11-27CUST6791 Customer_430 22 Female Pune Chair Furniture
+ORD1001392025-09-18CUST7062 Customer_92 52 Male Bengaluru Laptop Electronics
+ORD1001402025-04-04CUST6625 Customer_121 18 Male HyderabadMobile Electronics
+ORD1001412025-01-25CUST4824 Customer_98 24 Male Gaya Laptop Electronics
+ORD1001422025-07-31CUST1339 Customer_107 54 Male Kolkata Book Education
+ORD1001432025-03-05CUST1113 Customer_104 33 Female Gaya Shoes Fashion
+ORD1001442025-06-30CUST4034 Customer_271 32 Female Kolkata Mobile Electronics
+ORD1001452025-12-06CUST6997 Customer_244 28 Male Gaya Mobile Electronics
+ORD1001462025-03-12CUST2480 Customer_491 59 Female Gaya Shoes Fashion
+ORD1001472025-06-08CUST9450 Customer_230 18 Male Bengaluru Laptop Electronics
+ORD1001482025-07-07CUST8408 Customer_249 51 Female Delhi Mobile Electronics
+ORD1001492025-09-17CUST7178 Customer_478 64 Male Bengaluru Chair Furniture
+ORD1001502025-04-01CUST4132 Customer_47 Female Chair Furniture
+ORD1001512025-09-13CUST4829 Customer_202 19 Female Mumbai Shoes Fashion
+ORD1001522025-02-08CUST5188 Customer_286 53 Male Gaya Laptop Electronics
+ORD1001532025-06-26CUST1928 Customer_17 30 Female Mumbai Mobile Electronics
+ORD1001542025-10-26CUST3887 Customer_371 56 Female Mumbai Laptop Electronics
+ORD1001552025-03-18CUST5211 Customer_215 53 Female Patna Book Education
+ORD1001562025-07-22CUST2236 Customer_173 64 Male Pune Mobile Electronics
+ORD1001572025-03-11CUST5375 Customer_265 60 Male Bengaluru Book Education
+ORD1001582025-08-31CUST4137 Customer_221 36 Male Gaya Mobile Electronics
+ORD1001592025-02-16CUST5113 Customer_271 30 Female Kolkata Mobile Electronics
+ORD1001602025-09-20CUST7263 Customer_120 55 Male HyderabadChair Furniture
+ORD1001612025-10-22CUST2562 Customer_280 65 Male Bengaluru Rice Grocery
+ORD1001622025-06-03CUST9297 Customer_488 27 Female Kolkata Mobile Electronics
+ORD1001632025-11-04CUST2295 Customer_319 57 Male Mumbai Book Education
+ORD1001642025-01-07CUST3839 Customer_274 61 Male Bengaluru Mobile Electronics
+ORD1001652026-01-01CUST8010 Customer_187 41 Female HyderabadRice Grocery
+ORD1001662025-10-20CUST9008 Customer_279 54 Female HyderabadBook Education
+ORD1001672025-09-04CUST3714 Customer_295 37 Female Patna Rice Grocery
+ORD1001682025-03-03CUST5036 Customer_468 32 Male Patna Chair Furniture
+ORD1001692025-08-06CUST1479 Customer_375 35 Female Bengaluru Chair Furniture
+ORD1001702025-04-04CUST9875 Customer_6 49 Male Bengaluru Laptop Electronics
+ORD1001712025-01-20CUST3522 Customer_67 24 Male Bengaluru Chair Furniture
+ORD1001722025-05-10CUST4062 Customer_23 56 Female Mumbai Chair Furniture
+ORD1001732025-01-26CUST4009 Customer_273 18 Male HyderabadRice Grocery
+ORD1001742025-04-08CUST4685 Customer_22 35 Male Gaya Rice Grocery
+ORD1001752025-06-07CUST3564 Customer_267 41 Male Patna Rice Grocery
+ORD1001762025-01-11CUST8722 Customer_475 21 Male Mumbai Laptop Electronics
+
+
+
+ORD1001772025-06-04CUST3602 Customer_295 54 Male Pune Mobile Electronics
+ORD1001782025-06-21CUST9812 Customer_333 20 Female Pune Mobile Electronics
+ORD1001792025-07-01CUST4747 Customer_193 44 Male Gaya Mobile Electronics
+ORD1001802025-03-05CUST1766 Customer_319 27 Male Kolkata Laptop Electronics
+ORD1001812025-10-31CUST3366 Customer_363 55 Male Delhi Rice Grocery
+ORD1001822025-01-26CUST1215 Customer_19 35 Male Gaya Chair Furniture
+ORD1001832025-11-14CUST3508 Customer_163 60 Female Pune Laptop Electronics
+ORD1001842025-10-24CUST5988 Customer_266 43 Male Kolkata Chair Furniture
+ORD1001852025-01-15CUST3662 Customer_223 34 Female HyderabadLaptop Electronics
+ORD1001862025-03-08CUST3397 Customer_101 44 Male Gaya Chair Furniture
+ORD1001872025-05-13CUST4777 Customer_233 60 Female Gaya Laptop Electronics
+ORD1001882025-04-27CUST9059 Customer_288 33 Male Delhi Laptop Electronics
+ORD1001892025-06-26CUST5600 Customer_176 27 Male Bengaluru Rice Grocery
+ORD1001902025-09-08CUST7574 Customer_66 43 Female Delhi Chair Furniture
+ORD1001912025-11-27CUST1436 Customer_144 60 Female Delhi Laptop Electronics
+ORD1001922025-02-26CUST3625 Customer_382 55 Female Kolkata Mobile Electronics
+ORD1001932025-06-05CUST5168 Customer_295 25 Male HyderabadLaptop Electronics
+ORD1001942025-06-13CUST6821 Customer_73 24 Male Pune Book Education
+ORD1001952025-08-06CUST6228 Customer_466 41 Female Pune Book Education
+ORD1001962025-11-19CUST3002 Customer_57 61 Male Mumbai Book Education
+ORD1001972025-10-26CUST3685 Customer_94 23 Female Delhi Chair Furniture
+ORD1001982025-02-08CUST3417 Customer_102 36 Male Patna Laptop Electronics
+ORD1001992025-01-04CUST7187 Customer_149 38 Male Patna Mobile Electronics
+ORD1002002025-02-24CUST2953 Customer_435 Female Kolkata Rice Grocery
+ORD1002012025-12-23CUST2779 Customer_336 44 Female Patna Rice Grocery
+ORD1002022025-02-26CUST6564 Customer_216 59 Female Patna Mobile Electronics
+ORD1002032025-03-10CUST4996 Customer_449 61 Female HyderabadLaptop Electronics
+ORD1002042025-12-16CUST2428 Customer_127 52 Female Mumbai Book Education
+ORD1002052025-02-26CUST2448 Customer_444 59 Female Kolkata Chair Furniture
+ORD1002062025-03-09CUST1049 Customer_243 55 Female HyderabadBook Education
+ORD1002072025-08-30CUST9728 Customer_338 45 Male Gaya Rice Grocery
+ORD1002082025-02-25CUST6932 Customer_304 31 Male Kolkata Shoes Fashion
+ORD1002092025-04-05CUST9159 Customer_12 40 Female Kolkata Mobile Electronics
+ORD1002102025-08-25CUST6518 Customer_410 44 Female HyderabadShoes Fashion
+ORD1002112025-04-16CUST4756 Customer_15 55 Female Bengaluru Book Education
+ORD1002122025-04-10CUST7659 Customer_445 20 Male Patna Chair Furniture
+ORD1002132025-11-09CUST6727 Customer_452 34 Female Mumbai Mobile Electronics
+ORD1002142025-08-25CUST8049 Customer_384 37 Female Delhi Laptop Electronics
+ORD1002152025-07-18CUST4705 Customer_53 43 Female HyderabadShoes Fashion
+ORD1002162025-03-20CUST5355 Customer_108 23 Male Delhi Rice Grocery
+ORD1002172025-03-23CUST3186 Customer_412 60 Female Delhi Mobile Electronics
+ORD1002182025-10-07CUST1822 Customer_174 39 Male Kolkata Mobile Electronics
+ORD1002192025-01-13CUST9645 Customer_341 25 Female HyderabadRice Grocery
+ORD1002202025-09-14CUST2997 Customer_181 23 Female HyderabadLaptop Electronics
+
+
+
+ORD1002212025-04-27CUST2088 Customer_382 65 Female HyderabadBook Education
+ORD1002222025-07-13CUST1711 Customer_36 20 Female Bengaluru Shoes Fashion
+ORD1002232025-01-10CUST9840 Customer_347 38 Female Bengaluru Mobile Electronics
+ORD1002242025-12-06CUST7613 Customer_432 22 Male Mumbai Laptop Electronics
+ORD1002252025-12-07CUST1443 Customer_315 37 Female Rice Grocery
+ORD1002262025-02-08CUST9319 Customer_434 54 Female Pune Rice Grocery
+ORD1002272025-04-07CUST6773 Customer_200 22 Male HyderabadLaptop Electronics
+ORD1002282025-06-19CUST5214 Customer_142 63 Female Patna Chair Furniture
+ORD1002292025-07-08CUST3618 Customer_131 28 Male Pune Laptop Electronics
+ORD1002302025-11-01CUST3668 Customer_415 63 Male Patna Mobile Electronics
+ORD1002312025-05-16CUST7315 Customer_283 45 Female Mumbai Book Education
+ORD1002322025-04-11CUST9158 Customer_297 61 Male Gaya Chair Furniture
+ORD1002332025-06-21CUST6522 Customer_468 61 Male Mumbai Book Education
+ORD1002342025-09-05CUST3760 Customer_360 63 Female Bengaluru Shoes Fashion
+ORD1002352025-10-22CUST5079 Customer_348 41 Female Bengaluru Chair Furniture
+ORD1002362025-05-19CUST6082 Customer_301 62 Male Mumbai Laptop Electronics
+ORD1002372025-06-25CUST8311 Customer_225 32 Male Bengaluru Mobile Electronics
+ORD1002382025-02-04CUST5945 Customer_49 40 Female Kolkata Shoes Fashion
+ORD1002392025-02-23CUST9191 Customer_323 38 Male HyderabadBook Education
+ORD1000502025-03-01CUST8467 Customer_104 23 Male Bengaluru Book Education
+ORD1002412025-02-12CUST1197 Customer_419 36 Male Pune Book Education
+ORD1002422025-12-22CUST6111 Customer_204 34 Female HyderabadLaptop Electronics
+ORD1002432025-05-04CUST1367 Customer_48 21 Female Bengaluru Book Education
+ORD1002442025-03-27CUST6584 Customer_449 21 Male Mumbai Mobile Electronics
+ORD1002452025-09-21CUST2862 Customer_122 25 Male Bengaluru Rice Grocery
+ORD1002462025-05-31CUST4094 Customer_382 51 Male HyderabadRice Grocery
+ORD1002472025-09-17CUST5129 Customer_404 54 Male Bengaluru Book Education
+ORD1002482025-02-09CUST4629 Customer_167 40 Female Patna Mobile Electronics
+ORD1002492025-01-23CUST5454 Customer_368 19 Female HyderabadChair Furniture
+ORD1002502025-12-20CUST3169 Customer_138 Female Delhi Mobile Electronics
+ORD1002512025-04-02CUST9047 Customer_363 42 Male Patna Laptop Electronics
+ORD1002522025-08-28CUST9097 Customer_384 26 Male HyderabadBook Education
+ORD1002532025-04-16CUST2006 Customer_131 50 Male Kolkata Book Education
+ORD1002542025-08-17CUST5418 Customer_491 41 Female Kolkata Book Education
+ORD1002552025-05-02CUST8067 Customer_283 47 Female Patna Chair Furniture
+ORD1002562025-05-03CUST3080 Customer_378 41 Female Pune Chair Furniture
+ORD1002572025-12-15CUST6728 Customer_413 64 Male Bengaluru Mobile Electronics
+ORD1002582025-09-10CUST7801 Customer_150 41 Male Pune Chair Furniture
+ORD1002592025-06-18CUST4686 Customer_473 27 Male Pune Rice Grocery
+ORD1002602025-01-20CUST6345 Customer_420 32 Male HyderabadChair Furniture
+ORD1002612025-07-09CUST6927 Customer_165 23 Male Gaya Chair Furniture
+ORD1002622025-10-28CUST8686 Customer_404 56 Female Patna Chair Furniture
+ORD1002632025-06-22CUST6585 Customer_214 21 Male HyderabadRice Grocery
+ORD1002642025-04-18CUST7176 Customer_434 33 Male Bengaluru Chair Furniture
+
+
+
+ORD1002652025-05-04CUST9233 Customer_485 35 Male HyderabadChair Furniture
+ORD1002662025-11-26CUST7501 Customer_2 40 Female Gaya Rice Grocery
+ORD1002672025-05-06CUST7082 Customer_492 21 Female Bengaluru Book Education
+ORD1002682025-04-04CUST2463 Customer_390 25 Male Bengaluru Laptop Electronics
+ORD1002692025-08-01CUST1662 Customer_365 31 Female Pune Book Education
+ORD1002702025-10-25CUST7413 Customer_4 54 Male Kolkata Laptop Electronics
+ORD1002712025-12-26CUST1994 Customer_390 48 Male Pune Book Education
+ORD1002722025-08-03CUST6173 Customer_51 22 Male Pune Mobile Electronics
+ORD1002732025-01-10CUST7374 Customer_375 62 Female Patna Book Education
+ORD1002742025-09-11CUST4737 Customer_367 22 Female Patna Book Education
+ORD1002752025-06-07CUST3689 Customer_335 34 Female Patna Laptop Electronics
+ORD1002762025-09-06CUST6444 Customer_251 23 Female Mumbai Book Education
+ORD1002772025-09-13CUST2152 Customer_99 63 Female Bengaluru Mobile Electronics
+ORD1002782025-09-14CUST1636 Customer_243 63 Female Patna Chair Furniture
+ORD1002792025-09-30CUST3341 Customer_263 54 Male Gaya Mobile Electronics
+ORD1002802025-08-19CUST1463 Customer_397 21 Female Bengaluru Shoes Fashion
+ORD1002812025-12-26CUST3877 Customer_133 18 Male Delhi Mobile Electronics
+ORD1002822025-12-28CUST6407 Customer_157 26 Female Delhi Laptop Electronics
+ORD1002832025-01-09CUST4381 Customer_324 39 Female Kolkata Laptop Electronics
+ORD1002842025-05-09CUST5097 Customer_302 65 Female Mumbai Mobile Electronics
+ORD1002852025-10-17CUST9910 Customer_110 18 Male HyderabadShoes Fashion
+ORD1002862025-10-23CUST7806 Customer_4 64 Female HyderabadRice Grocery
+ORD1002872025-01-11CUST8105 Customer_385 52 Male Delhi Mobile Electronics
+ORD1002882025-11-04CUST6002 Customer_83 46 Male Delhi Laptop Electronics
+ORD1002892025-11-07CUST1334 Customer_364 31 Male Kolkata Shoes Fashion
+ORD1002902025-04-06CUST9248 Customer_451 51 Male Mumbai Chair Furniture
+ORD1002912025-08-31CUST7152 Customer_423 22 Female Patna Mobile Electronics
+ORD1002922025-02-20CUST8650 Customer_384 23 Male Gaya Rice Grocery
+ORD1002932025-04-16CUST9284 Customer_212 44 Female Kolkata Book Education
+ORD1002942025-03-02CUST4169 Customer_307 41 Female HyderabadRice Grocery
+ORD1002952025-05-04CUST3464 Customer_1 18 Female Bengaluru Book Education
+ORD1002962025-07-04CUST8294 Customer_103 30 Female HyderabadBook Education
+ORD1002972025-11-18CUST4845 Customer_401 18 Male Mumbai Chair Furniture
+ORD1002982025-07-28CUST6538 Customer_365 37 Female Pune Mobile Electronics
+ORD1002992025-03-25CUST6028 Customer_58 39 Male Delhi Laptop Electronics
+ORD1003002025-07-01CUST7944 Customer_282 Male Chair Furniture
+ORD1003012025-09-12CUST5406 Customer_164 30 Male Kolkata Mobile Electronics
+ORD1003022025-08-09CUST9552 Customer_340 30 Male Patna Chair Furniture
+ORD1003032025-03-27CUST3059 Customer_104 36 Male Patna Shoes Fashion
+ORD1003042025-07-06CUST1183 Customer_189 20 Female Gaya Chair Furniture
+ORD1003052025-08-27CUST1088 Customer_1 40 Male Patna Shoes Fashion
+ORD1003062025-08-02CUST8195 Customer_388 52 Female Patna Shoes Fashion
+ORD1003072026-01-01CUST1231 Customer_339 53 Male Patna Rice Grocery
+ORD1003082025-12-12CUST6206 Customer_18 50 Male Kolkata Book Education
+
+
+
+ORD1003092025-03-23CUST7625 Customer_251 50 Female Patna Book Education
+ORD1003102025-07-29CUST1762 Customer_141 27 Male Delhi Book Education
+ORD1003112025-09-08CUST1743 Customer_222 56 Male HyderabadShoes Fashion
+ORD1003122025-11-12CUST9788 Customer_229 64 Male HyderabadMobile Electronics
+ORD1003132025-10-23CUST2687 Customer_190 64 Female HyderabadBook Education
+ORD1003142025-07-22CUST3094 Customer_47 49 Female Bengaluru Mobile Electronics
+ORD1003152025-06-08CUST7059 Customer_224 51 Female Delhi Laptop Electronics
+ORD1003162025-04-21CUST8229 Customer_161 32 Male Pune Mobile Electronics
+ORD1003172025-02-25CUST9307 Customer_274 37 Female HyderabadBook Education
+ORD1003182025-01-30CUST2457 Customer_462 51 Male Kolkata Mobile Electronics
+ORD1003192025-06-08CUST5057 Customer_158 52 Female Patna Shoes Fashion
+ORD1003202025-05-07CUST1516 Customer_148 52 Male Mumbai Laptop Electronics
+ORD1003212025-06-22CUST4527 Customer_359 54 Male Mumbai Book Education
+ORD1003222025-08-15CUST2650 Customer_276 56 Female Kolkata Chair Furniture
+ORD1003232025-09-20CUST1932 Customer_369 35 Male Delhi Mobile Electronics
+ORD1003242025-07-20CUST2094 Customer_165 54 Female HyderabadBook Education
+ORD1003252025-08-26CUST7196 Customer_286 40 Male Delhi Chair Furniture
+ORD1003262025-05-27CUST2537 Customer_32 30 Female Bengaluru Mobile Electronics
+ORD1003272025-03-30CUST9627 Customer_444 47 Male Gaya Rice Grocery
+ORD1003282025-05-06CUST3044 Customer_27 65 Female Bengaluru Rice Grocery
+ORD1003292025-04-12CUST9693 Customer_343 48 Male Patna Book Education
+ORD1003302025-10-14CUST5621 Customer_427 62 Female Delhi Shoes Fashion
+ORD1003312025-04-28CUST6067 Customer_316 55 Male Patna Laptop Electronics
+ORD1003322025-02-03CUST9465 Customer_470 44 Male Kolkata Shoes Fashion
+ORD1003332025-07-23CUST3773 Customer_336 41 Female Pune Chair Furniture
+ORD1003342025-01-29CUST5933 Customer_92 29 Male Mumbai Chair Furniture
+ORD1003352025-10-16CUST8904 Customer_152 28 Female Kolkata Rice Grocery
+ORD1003362025-02-24CUST2599 Customer_390 35 Male Mumbai Laptop Electronics
+ORD1003372025-12-05CUST5249 Customer_236 57 Male Pune Shoes Fashion
+ORD1003382025-09-21CUST9849 Customer_264 53 Female Delhi Chair Furniture
+ORD1003392025-03-02CUST3891 Customer_453 65 Male Mumbai Laptop Electronics
+ORD1003402025-10-28CUST8154 Customer_224 47 Female Pune Mobile Electronics
+ORD1003412025-02-13CUST1614 Customer_267 52 Female Bengaluru Book Education
+ORD1003422025-01-28CUST9557 Customer_475 47 Male Mumbai Book Education
+ORD1003432025-10-29CUST9253 Customer_371 50 Female Pune Rice Grocery
+ORD1003442025-12-18CUST2794 Customer_98 31 Female Patna Shoes Fashion
+ORD1003452025-05-01CUST1463 Customer_257 56 Female Gaya Mobile Electronics
+ORD1003462025-02-09CUST2051 Customer_103 31 Male Bengaluru Rice Grocery
+ORD1003472025-02-16CUST1577 Customer_59 37 Male Delhi Shoes Fashion
+ORD1003482025-07-16CUST7654 Customer_172 42 Male Delhi Rice Grocery
+ORD1003492025-03-27CUST9304 Customer_216 38 Female Bengaluru Shoes Fashion
+ORD1003502025-07-11CUST9709 Customer_409 Male Pune Laptop Electronics
+ORD1003512025-03-26CUST6828 Customer_222 50 Male Bengaluru Chair Furniture
+ORD1003522025-02-24CUST1170 Customer_67 37 Male Mumbai Mobile Electronics
+
+
+
+ORD1003532025-02-13CUST3075 Customer_249 55 Male Bengaluru Laptop Electronics
+ORD1003542025-11-08CUST7104 Customer_498 34 Male Mumbai Chair Furniture
+ORD1003552025-10-20CUST3265 Customer_256 29 Male Gaya Rice Grocery
+ORD1003562025-08-17CUST4601 Customer_82 55 Female HyderabadBook Education
+ORD1003572025-07-15CUST5743 Customer_248 28 Male Gaya Laptop Electronics
+ORD1003582025-08-11CUST8871 Customer_345 43 Female Kolkata Chair Furniture
+ORD1003592025-01-26CUST3763 Customer_221 32 Female Delhi Shoes Fashion
+ORD1000502025-02-11CUST6467 Customer_181 24 Female Pune Rice Grocery
+ORD1003612025-04-26CUST7309 Customer_266 52 Female Delhi Book Education
+ORD1003622025-10-01CUST3281 Customer_243 64 Female Pune Laptop Electronics
+ORD1003632025-04-30CUST9724 Customer_220 35 Male Pune Laptop Electronics
+ORD1003642025-11-16CUST5468 Customer_463 32 Male Bengaluru Laptop Electronics
+ORD1003652025-12-30CUST7621 Customer_375 61 Female Gaya Shoes Fashion
+ORD1003662025-03-13CUST9551 Customer_230 18 Male Bengaluru Mobile Electronics
+ORD1003672025-09-07CUST3023 Customer_223 43 Female Gaya Shoes Fashion
+ORD1003682025-06-06CUST5318 Customer_376 61 Male Bengaluru Shoes Fashion
+ORD1003692025-06-12CUST9900 Customer_496 26 Male Bengaluru Shoes Fashion
+ORD1003702025-01-26CUST6142 Customer_410 37 Male Patna Mobile Electronics
+ORD1003712025-09-25CUST8318 Customer_189 29 Female Kolkata Mobile Electronics
+ORD1003722025-06-15CUST9485 Customer_43 57 Male Mumbai Mobile Electronics
+ORD1003732025-06-04CUST9022 Customer_131 49 Female Mumbai Rice Grocery
+ORD1003742025-01-18CUST4041 Customer_433 32 Female Bengaluru Laptop Electronics
+ORD1003752025-05-06CUST5835 Customer_362 20 Male Laptop Electronics
+ORD1003762025-02-28CUST9776 Customer_345 54 Female Delhi Rice Grocery
+ORD1003772025-10-25CUST9292 Customer_89 33 Male Bengaluru Shoes Fashion
+ORD1003782025-09-29CUST3607 Customer_266 64 Female Patna Book Education
+ORD1003792025-04-28CUST1032 Customer_20 22 Female Pune Mobile Electronics
+ORD1003802025-04-04CUST6531 Customer_218 57 Male Kolkata Rice Grocery
+ORD1003812025-06-07CUST4482 Customer_139 53 Male Pune Mobile Electronics
+ORD1003822025-10-16CUST4655 Customer_167 35 Male Kolkata Shoes Fashion
+ORD1003832025-08-25CUST3365 Customer_80 23 Male Delhi Mobile Electronics
+ORD1003842025-10-15CUST1481 Customer_40 40 Female Patna Chair Furniture
+ORD1003852025-11-24CUST2242 Customer_331 53 Female Delhi Mobile Electronics
+ORD1003862025-06-30CUST8164 Customer_156 34 Female Delhi Chair Furniture
+ORD1003872025-06-17CUST9469 Customer_426 18 Female Kolkata Shoes Fashion
+ORD1003882025-10-04CUST3129 Customer_138 39 Male HyderabadBook Education
+ORD1003892025-08-30CUST6180 Customer_73 64 Male Patna Mobile Electronics
+ORD1003902025-03-23CUST2671 Customer_58 52 Male Delhi Shoes Fashion
+ORD1003912025-03-30CUST6111 Customer_388 20 Male Kolkata Laptop Electronics
+ORD1003922025-08-11CUST9927 Customer_357 37 Female Bengaluru Shoes Fashion
+ORD1003932025-09-09CUST3393 Customer_175 24 Female HyderabadMobile Electronics
+ORD1003942025-11-22CUST5569 Customer_188 27 Female Pune Shoes Fashion
+ORD1003952025-04-01CUST5128 Customer_192 47 Male Bengaluru Rice Grocery
+ORD1003962025-10-26CUST8053 Customer_159 53 Female Mumbai Laptop Electronics
+
+
+
+ORD1003972025-02-12CUST3345 Customer_202 35 Female Gaya Book Education
+ORD1003982025-03-07CUST6600 Customer_242 58 Female Bengaluru Mobile Electronics
+ORD1003992025-06-14CUST5615 Customer_56 63 Female Bengaluru Rice Grocery
+ORD1004002025-04-20CUST5102 Customer_416 Female HyderabadBook Education
+ORD1004012025-01-13CUST6037 Customer_121 28 Male Patna Mobile Electronics
+ORD1004022025-04-05CUST2137 Customer_57 40 Female Mumbai Shoes Fashion
+ORD1004032025-02-22CUST4625 Customer_296 25 Female Gaya Book Education
+ORD1004042025-01-10CUST4414 Customer_194 53 Female Delhi Book Education
+ORD1004052025-04-05CUST5778 Customer_346 37 Male Patna Shoes Fashion
+ORD1004062025-03-21CUST1528 Customer_170 46 Male Patna Mobile Electronics
+ORD1004072025-06-29CUST5430 Customer_333 48 Male Mumbai Shoes Fashion
+ORD1004082025-02-28CUST8759 Customer_20 64 Female HyderabadChair Furniture
+ORD1004092025-01-23CUST9421 Customer_355 64 Female Bengaluru Shoes Fashion
+ORD1004102025-07-07CUST3440 Customer_28 32 Female Pune Laptop Electronics
+ORD1004112025-07-11CUST6631 Customer_141 58 Male Kolkata Book Education
+ORD1004122025-12-16CUST9089 Customer_177 24 Male Patna Book Education
+ORD1004132025-12-03CUST4703 Customer_394 58 Male Patna Laptop Electronics
+ORD1004142025-07-18CUST4598 Customer_96 33 Female Patna Shoes Fashion
+ORD1004152025-01-16CUST3277 Customer_148 46 Female Gaya Mobile Electronics
+ORD1004162025-06-30CUST5932 Customer_183 62 Female Gaya Rice Grocery
+ORD1004172025-03-25CUST7628 Customer_120 56 Male Bengaluru Chair Furniture
+ORD1004182025-06-04CUST9942 Customer_466 29 Female Kolkata Mobile Electronics
+ORD1004192025-08-21CUST6436 Customer_288 52 Male Bengaluru Shoes Fashion
+ORD1004202025-05-12CUST2231 Customer_38 51 Male Delhi Mobile Electronics
+ORD1004212025-10-04CUST2956 Customer_177 39 Male Patna Chair Furniture
+ORD1004222025-12-23CUST1764 Customer_47 24 Male HyderabadLaptop Electronics
+ORD1004232025-04-03CUST9649 Customer_322 58 Male Gaya Mobile Electronics
+ORD1004242025-10-03CUST6655 Customer_192 31 Female Pune Laptop Electronics
+ORD1004252025-02-28CUST4284 Customer_270 46 Male Patna Mobile Electronics
+ORD1004262025-06-21CUST4269 Customer_268 65 Female Gaya Laptop Electronics
+ORD1004272025-05-31CUST1253 Customer_334 32 Female Gaya Laptop Electronics
+ORD1004282025-02-14CUST9754 Customer_304 19 Male Delhi Chair Furniture
+ORD1004292025-08-08CUST2697 Customer_155 49 Male HyderabadBook Education
+ORD1004302025-10-24CUST9209 Customer_233 21 Female Mumbai Laptop Electronics
+ORD1004312025-07-21CUST4215 Customer_103 28 Male Delhi Shoes Fashion
+ORD1004322025-02-04CUST2935 Customer_26 28 Male Delhi Mobile Electronics
+ORD1004332025-05-11CUST9381 Customer_352 45 Male Kolkata Laptop Electronics
+ORD1004342025-06-10CUST4982 Customer_370 33 Male Delhi Mobile Electronics
+ORD1004352025-01-05CUST4849 Customer_209 28 Male Patna Rice Grocery
+ORD1004362025-05-28CUST3418 Customer_499 33 Female Gaya Mobile Electronics
+ORD1004372025-08-01CUST3459 Customer_320 19 Male Pune Mobile Electronics
+ORD1004382025-11-29CUST7937 Customer_158 43 Female Mumbai Chair Furniture
+ORD1004392025-12-13CUST8269 Customer_104 34 Female Bengaluru Book Education
+ORD1004402025-05-26CUST9209 Customer_173 49 Female Gaya Shoes Fashion
+
+
+
+ORD1004412025-01-22CUST9619 Customer_491 30 Male Pune Mobile Electronics
+ORD1004422025-08-30CUST6887 Customer_423 21 Male Delhi Chair Furniture
+ORD1004432025-07-24CUST8515 Customer_445 22 Male Mumbai Chair Furniture
+ORD1004442025-10-01CUST9942 Customer_227 47 Male Delhi Mobile Electronics
+ORD1004452025-06-16CUST1256 Customer_279 34 Male Kolkata Mobile Electronics
+ORD1004462025-02-23CUST1841 Customer_129 45 Male Kolkata Book Education
+ORD1004472025-02-28CUST2777 Customer_417 49 Male Gaya Mobile Electronics
+ORD1004482025-02-08CUST2031 Customer_309 45 Female Gaya Shoes Fashion
+ORD1004492025-02-02CUST9219 Customer_132 30 Female Gaya Laptop Electronics
+ORD1004502025-02-13CUST6714 Customer_31 Female Book Education
+ORD1004512025-02-28CUST3773 Customer_181 27 Male Patna Chair Furniture
+ORD1004522025-01-22CUST5766 Customer_85 27 Male Gaya Shoes Fashion
+ORD1004532025-08-30CUST1189 Customer_490 39 Female Pune Shoes Fashion
+ORD1004542025-09-15CUST4756 Customer_104 57 Female Delhi Laptop Electronics
+ORD1004552025-08-10CUST9125 Customer_19 21 Female Mumbai Chair Furniture
+ORD1004562025-04-16CUST6806 Customer_316 46 Male Pune Laptop Electronics
+ORD1004572025-02-17CUST9543 Customer_448 45 Female Bengaluru Chair Furniture
+ORD1004582025-03-20CUST6136 Customer_328 22 Male HyderabadChair Furniture
+ORD1004592025-04-28CUST9131 Customer_249 38 Female Delhi Book Education
+ORD1004602025-04-17CUST4317 Customer_498 50 Female Delhi Book Education
+ORD1004612025-07-11CUST5702 Customer_381 48 Female Pune Book Education
+ORD1004622025-03-22CUST9379 Customer_263 38 Female Kolkata Laptop Electronics
+ORD1004632025-04-25CUST7664 Customer_376 43 Female Delhi Shoes Fashion
+ORD1004642025-09-17CUST1710 Customer_355 46 Female HyderabadBook Education
+ORD1004652025-07-30CUST2680 Customer_90 65 Female Patna Book Education
+ORD1004662025-08-25CUST6783 Customer_7 30 Male Kolkata Book Education
+ORD1004672025-05-27CUST8039 Customer_391 55 Female Kolkata Book Education
+ORD1004682025-12-23CUST7564 Customer_478 20 Female Patna Book Education
+ORD1004692025-04-15CUST8899 Customer_482 30 Male Delhi Mobile Electronics
+ORD1004702025-05-05CUST1453 Customer_60 51 Male Gaya Shoes Fashion
+ORD1004712025-11-18CUST5363 Customer_423 56 Male Delhi Rice Grocery
+ORD1004722025-03-19CUST8325 Customer_16 62 Female Bengaluru Chair Furniture
+ORD1004732025-02-23CUST7374 Customer_382 21 Male Mumbai Rice Grocery
+ORD1004742025-12-08CUST3741 Customer_461 57 Female Mumbai Laptop Electronics
+ORD1004752025-07-24CUST4758 Customer_372 63 Male Pune Laptop Electronics
+ORD1004762025-08-22CUST1940 Customer_40 48 Male Gaya Shoes Fashion
+ORD1004772025-05-27CUST3024 Customer_332 22 Female Patna Laptop Electronics
+ORD1004782025-10-09CUST7981 Customer_196 46 Male Mumbai Chair Furniture
+ORD1004792025-08-22CUST9259 Customer_276 30 Male HyderabadLaptop Electronics
+ORD1000502025-11-22CUST8225 Customer_468 64 Male Bengaluru Rice Grocery
+ORD1004812025-08-26CUST4966 Customer_367 47 Female Bengaluru Chair Furniture
+ORD1004822025-01-07CUST2632 Customer_321 56 Male Kolkata Laptop Electronics
+ORD1004832025-02-16CUST3723 Customer_208 52 Male Kolkata Laptop Electronics
+ORD1004842025-06-24CUST8322 Customer_429 28 Male HyderabadChair Furniture
+
+
+
+ORD1004852025-12-25CUST9464 Customer_357 39 Male Gaya Book Education
+ORD1004862025-11-15CUST4264 Customer_304 26 Female Patna Mobile Electronics
+ORD1004872025-08-24CUST8691 Customer_252 27 Male Patna Shoes Fashion
+ORD1004882025-02-22CUST7117 Customer_6 53 Female Gaya Chair Furniture
+ORD1004892025-08-24CUST4167 Customer_113 41 Female Kolkata Mobile Electronics
+ORD1004902025-04-16CUST6969 Customer_83 41 Female HyderabadRice Grocery
+ORD1004912025-04-18CUST9486 Customer_19 29 Male HyderabadShoes Fashion
+ORD1004922025-03-21CUST2708 Customer_57 52 Male Delhi Book Education
+ORD1004932025-12-28CUST1833 Customer_357 63 Male Gaya Book Education
+ORD1004942025-05-29CUST8425 Customer_254 47 Male Delhi Laptop Electronics
+ORD1004952025-07-28CUST3911 Customer_304 26 Female Gaya Shoes Fashion
+ORD1004962025-05-29CUST2812 Customer_249 55 Male Gaya Chair Furniture
+ORD1004972025-04-07CUST8000 Customer_275 51 Male Kolkata Rice Grocery
+ORD1004982025-12-31CUST6862 Customer_257 45 Female Patna Chair Furniture
+ORD1004992025-08-24CUST1616 Customer_288 44 Female Delhi Mobile Electronics
+ORD1005002025-06-26CUST2835 Customer_468 Male Kolkata Chair Furniture
+ORD1005012025-06-18CUST7494 Customer_188 30 Female Mumbai Mobile Electronics
+ORD1005022025-12-07CUST8789 Customer_4 52 Female Delhi Book Education
+ORD1005032025-04-30CUST4457 Customer_212 31 Female HyderabadLaptop Electronics
+ORD1005042025-07-15CUST6258 Customer_229 52 Male Pune Mobile Electronics
+ORD1005052025-09-06CUST9324 Customer_58 61 Female HyderabadChair Furniture
+ORD1005062025-06-02CUST2027 Customer_458 32 Male Gaya Rice Grocery
+ORD1005072025-11-06CUST9966 Customer_199 44 Male Kolkata Laptop Electronics
+ORD1005082025-03-08CUST3747 Customer_322 47 Female Mumbai Laptop Electronics
+ORD1005092025-08-25CUST9303 Customer_321 44 Female Kolkata Mobile Electronics
+ORD1005102025-04-21CUST9282 Customer_322 58 Female Mumbai Laptop Electronics
+ORD1005112025-10-22CUST1565 Customer_353 27 Female Delhi Book Education
+ORD1005122025-10-29CUST6704 Customer_335 24 Female Mumbai Chair Furniture
+ORD1005132025-10-24CUST8023 Customer_118 50 Female Mumbai Shoes Fashion
+ORD1005142025-08-09CUST6860 Customer_168 30 Male Bengaluru Laptop Electronics
+ORD1005152025-02-12CUST2661 Customer_370 41 Male Delhi Mobile Electronics
+ORD1005162025-05-12CUST1316 Customer_3 37 Female Delhi Mobile Electronics
+ORD1005172025-05-09CUST7283 Customer_262 34 Male Mumbai Shoes Fashion
+ORD1005182025-12-16CUST3089 Customer_339 35 Female Kolkata Laptop Electronics
+ORD1005192025-12-19CUST8947 Customer_375 65 Female Patna Rice Grocery
+ORD1005202025-11-09CUST9042 Customer_354 31 Female HyderabadChair Furniture
+ORD1005212025-10-23CUST8907 Customer_51 47 Male HyderabadRice Grocery
+ORD1005222025-04-24CUST6260 Customer_455 37 Male Gaya Laptop Electronics
+ORD1005232025-07-05CUST9055 Customer_359 62 Male Gaya Mobile Electronics
+ORD1005242025-02-10CUST3778 Customer_96 39 Female Bengaluru Shoes Fashion
+ORD1005252025-12-31CUST1090 Customer_316 45 Female Shoes Fashion
+ORD1005262025-02-14CUST6706 Customer_215 54 Male Mumbai Mobile Electronics
+ORD1005272025-03-27CUST8200 Customer_147 22 Female Patna Mobile Electronics
+ORD1005282025-07-29CUST5010 Customer_46 41 Female Pune Rice Grocery
+
+
+
+ORD1005292025-09-08CUST5233 Customer_108 26 Male Mumbai Book Education
+ORD1005302025-12-18CUST4089 Customer_79 42 Male Gaya Shoes Fashion
+ORD1005312025-05-15CUST7568 Customer_12 65 Male Gaya Rice Grocery
+ORD1005322025-09-20CUST3835 Customer_256 45 Male Delhi Book Education
+ORD1005332025-06-08CUST1124 Customer_360 18 Female Patna Rice Grocery
+ORD1005342025-07-16CUST8700 Customer_233 35 Female Mumbai Mobile Electronics
+ORD1005352025-04-05CUST2742 Customer_216 22 Female Delhi Rice Grocery
+ORD1005362025-12-14CUST6394 Customer_338 57 Female Bengaluru Rice Grocery
+ORD1005372025-01-30CUST9469 Customer_154 37 Female Mumbai Chair Furniture
+ORD1005382025-08-09CUST5133 Customer_86 56 Female Pune Laptop Electronics
+ORD1005392025-10-17CUST5535 Customer_146 28 Male Gaya Rice Grocery
+ORD1005402025-06-12CUST1419 Customer_226 28 Male Mumbai Rice Grocery
+ORD1005412025-11-17CUST3972 Customer_336 20 Male Gaya Rice Grocery
+ORD1005422025-09-16CUST2515 Customer_74 26 Female Patna Shoes Fashion
+ORD1005432025-06-30CUST2394 Customer_293 27 Male Patna Rice Grocery
+ORD1005442025-11-21CUST7033 Customer_359 33 Male Gaya Laptop Electronics
+ORD1005452025-02-19CUST7824 Customer_21 20 Male Pune Rice Grocery
+ORD1005462025-02-24CUST2039 Customer_32 31 Male Mumbai Mobile Electronics
+ORD1005472025-12-25CUST4569 Customer_238 38 Male Patna Laptop Electronics
+ORD1005482025-12-10CUST7568 Customer_212 37 Female Pune Shoes Fashion
+ORD1005492025-05-31CUST1780 Customer_250 64 Male HyderabadBook Education
+ORD1005502025-03-27CUST5244 Customer_44 Male Pune Rice Grocery
+ORD1005512025-09-26CUST7188 Customer_180 37 Male Bengaluru Laptop Electronics
+ORD1005522025-06-08CUST7042 Customer_137 60 Male Kolkata Book Education
+ORD1005532025-12-25CUST4646 Customer_365 36 Female Bengaluru Rice Grocery
+ORD1005542025-07-03CUST3623 Customer_1 35 Male Mumbai Mobile Electronics
+ORD1005552025-01-28CUST1399 Customer_431 60 Male Gaya Book Education
+ORD1005562025-12-09CUST2515 Customer_219 21 Male HyderabadMobile Electronics
+ORD1005572025-03-05CUST7285 Customer_493 18 Female HyderabadBook Education
+ORD1005582025-10-02CUST1401 Customer_151 35 Male Delhi Rice Grocery
+ORD1005592025-05-09CUST9458 Customer_25 22 Male Delhi Mobile Electronics
+ORD1005602025-10-22CUST9612 Customer_463 21 Male Kolkata Mobile Electronics
+ORD1005612025-01-11CUST2520 Customer_93 34 Female Kolkata Mobile Electronics
+ORD1005622025-09-07CUST3001 Customer_327 56 Female Delhi Book Education
+ORD1005632025-12-29CUST7491 Customer_139 46 Female Bengaluru Rice Grocery
+ORD1005642025-03-16CUST3473 Customer_20 56 Male HyderabadBook Education
+ORD1005652025-10-12CUST6748 Customer_2 40 Female Patna Book Education
+ORD1005662025-10-23CUST4722 Customer_390 63 Male Bengaluru Chair Furniture
+ORD1005672025-01-20CUST5431 Customer_396 60 Female Mumbai Mobile Electronics
+ORD1005682025-04-13CUST3316 Customer_458 41 Female Patna Book Education
+ORD1005692025-03-17CUST9510 Customer_345 21 Female Kolkata Chair Furniture
+ORD1005702025-03-08CUST9273 Customer_162 32 Female HyderabadChair Furniture
+ORD1005712025-12-22CUST5206 Customer_327 52 Female Patna Book Education
+ORD1005722025-05-10CUST3820 Customer_312 48 Female Delhi Rice Grocery
+
+
+
+ORD1005732025-01-09CUST5791 Customer_113 62 Male Patna Shoes Fashion
+ORD1005742026-01-01CUST2343 Customer_39 28 Male Patna Mobile Electronics
+ORD1005752025-09-20CUST6654 Customer_66 38 Female Pune Mobile Electronics
+ORD1005762025-05-16CUST8820 Customer_339 39 Female Kolkata Laptop Electronics
+ORD1005772025-06-18CUST9181 Customer_122 24 Female Patna Mobile Electronics
+ORD1005782025-03-09CUST8098 Customer_337 26 Female Patna Shoes Fashion
+ORD1005792025-04-19CUST6006 Customer_344 38 Male Delhi Chair Furniture
+ORD1005802025-06-20CUST1094 Customer_91 31 Female Patna Mobile Electronics
+ORD1005812025-07-07CUST1468 Customer_266 49 Female Kolkata Shoes Fashion
+ORD1005822025-12-29CUST6704 Customer_141 39 Male Pune Shoes Fashion
+ORD1005832025-03-07CUST1936 Customer_15 59 Male Delhi Mobile Electronics
+ORD1005842025-09-24CUST8399 Customer_160 40 Male Mumbai Book Education
+ORD1005852025-02-08CUST8075 Customer_401 62 Female Patna Shoes Fashion
+ORD1005862025-01-13CUST8826 Customer_206 20 Female Gaya Mobile Electronics
+ORD1005872025-09-04CUST9700 Customer_441 25 Female Kolkata Laptop Electronics
+ORD1005882025-03-20CUST8600 Customer_53 42 Male HyderabadBook Education
+ORD1005892025-12-17CUST8513 Customer_125 49 Female Pune Mobile Electronics
+ORD1005902025-12-19CUST8595 Customer_63 44 Female Mumbai Laptop Electronics
+ORD1005912025-06-27CUST9489 Customer_385 61 Male Delhi Book Education
+ORD1005922025-08-08CUST7226 Customer_421 51 Male Mumbai Mobile Electronics
+ORD1005932025-01-01CUST1840 Customer_90 43 Female Kolkata Laptop Electronics
+ORD1005942025-08-06CUST9449 Customer_178 49 Female Mumbai Shoes Fashion
+ORD1005952025-04-17CUST3537 Customer_377 24 Female Pune Chair Furniture
+ORD1005962025-10-12CUST4041 Customer_394 30 Female Delhi Rice Grocery
+ORD1005972025-05-06CUST4417 Customer_234 52 Male Mumbai Mobile Electronics
+ORD1005982025-08-04CUST4099 Customer_377 55 Female Delhi Shoes Fashion
+ORD1005992025-03-28CUST3107 Customer_99 21 Female Kolkata Mobile Electronics
+ORD1000502025-02-21CUST8859 Customer_53 Male Laptop Electronics
+ORD1006012025-04-02CUST9111 Customer_235 61 Female Kolkata Shoes Fashion
+ORD1006022025-09-05CUST8813 Customer_83 54 Male Bengaluru Laptop Electronics
+ORD1006032025-08-04CUST7221 Customer_478 39 Male Gaya Laptop Electronics
+ORD1006042025-07-28CUST5899 Customer_500 31 Female Gaya Laptop Electronics
+ORD1006052025-07-27CUST4483 Customer_109 63 Female Patna Book Education
+ORD1006062025-02-20CUST4438 Customer_133 56 Female Kolkata Chair Furniture
+ORD1006072025-10-21CUST9123 Customer_395 27 Female Mumbai Rice Grocery
+ORD1006082025-07-22CUST2364 Customer_290 34 Female HyderabadRice Grocery
+ORD1006092025-02-20CUST6314 Customer_66 19 Female Gaya Rice Grocery
+ORD1006102025-11-23CUST8128 Customer_101 48 Male Kolkata Laptop Electronics
+ORD1006112025-12-21CUST8583 Customer_290 37 Female Delhi Laptop Electronics
+ORD1006122025-04-09CUST4488 Customer_414 39 Female Kolkata Mobile Electronics
+ORD1006132025-06-01CUST5178 Customer_170 23 Male Mumbai Book Education
+ORD1006142025-05-06CUST9217 Customer_448 39 Female Delhi Book Education
+ORD1006152025-03-26CUST4150 Customer_415 31 Female Delhi Book Education
+ORD1006162025-12-10CUST3751 Customer_270 36 Male Bengaluru Shoes Fashion
+
+
+
+ORD1006172025-06-04CUST1991 Customer_359 41 Female Kolkata Book Education
+ORD1006182025-07-14CUST8124 Customer_344 33 Female Pune Shoes Fashion
+ORD1006192025-12-17CUST6678 Customer_241 41 Male Kolkata Rice Grocery
+ORD1006202025-10-11CUST8268 Customer_18 47 Female Kolkata Shoes Fashion
+ORD1006212025-12-25CUST1835 Customer_81 61 Female Gaya Chair Furniture
+ORD1006222025-05-11CUST3497 Customer_408 57 Male Patna Laptop Electronics
+ORD1006232025-02-13CUST1452 Customer_68 62 Female HyderabadShoes Fashion
+ORD1006242025-06-21CUST7416 Customer_191 54 Female HyderabadRice Grocery
+ORD1006252025-06-19CUST4137 Customer_51 46 Male Mumbai Laptop Electronics
+ORD1006262025-11-26CUST8649 Customer_160 30 Male Gaya Rice Grocery
+ORD1006272025-02-02CUST7361 Customer_159 20 Male HyderabadLaptop Electronics
+ORD1006282025-06-13CUST9567 Customer_218 38 Male Delhi Shoes Fashion
+ORD1006292025-05-16CUST6432 Customer_194 62 Male Mumbai Book Education
+ORD1006302025-03-12CUST4934 Customer_25 41 Male Bengaluru Rice Grocery
+ORD1006312025-09-04CUST6845 Customer_337 34 Male HyderabadChair Furniture
+ORD1006322025-03-02CUST1252 Customer_81 24 Male Pune Shoes Fashion
+ORD1006332025-07-20CUST1994 Customer_408 27 Female Patna Chair Furniture
+ORD1006342025-03-13CUST9488 Customer_147 37 Male Pune Shoes Fashion
+ORD1006352025-11-20CUST9421 Customer_213 58 Male Patna Chair Furniture
+ORD1006362025-05-10CUST4810 Customer_416 18 Male Kolkata Shoes Fashion
+ORD1006372025-03-10CUST1106 Customer_135 31 Male Patna Rice Grocery
+ORD1006382025-03-27CUST9693 Customer_267 19 Male Bengaluru Rice Grocery
+ORD1006392025-05-08CUST3004 Customer_162 46 Female Pune Shoes Fashion
+ORD1006402025-10-13CUST6421 Customer_218 22 Male Gaya Laptop Electronics
+ORD1006412025-06-14CUST6345 Customer_214 32 Female Delhi Book Education
+ORD1006422025-10-19CUST9384 Customer_230 28 Female Mumbai Rice Grocery
+ORD1006432025-05-12CUST9081 Customer_244 63 Female Mumbai Laptop Electronics
+ORD1006442025-09-18CUST6589 Customer_367 30 Male Kolkata Chair Furniture
+ORD1006452025-05-04CUST7844 Customer_469 53 Male Patna Chair Furniture
+ORD1006462025-08-29CUST4673 Customer_386 42 Female Delhi Shoes Fashion
+ORD1006472025-12-14CUST7504 Customer_183 52 Male Pune Laptop Electronics
+ORD1006482025-09-09CUST6921 Customer_68 62 Female Patna Mobile Electronics
+ORD1006492025-01-06CUST4109 Customer_31 53 Female Delhi Rice Grocery
+ORD1006502025-09-22CUST2181 Customer_125 Female Bengaluru Rice Grocery
+ORD1006512025-01-31CUST8708 Customer_293 59 Male Kolkata Laptop Electronics
+ORD1006522025-02-03CUST7219 Customer_391 30 Male Pune Book Education
+ORD1006532025-04-21CUST5516 Customer_343 21 Male Kolkata Rice Grocery
+ORD1006542025-02-23CUST9562 Customer_162 39 Male Mumbai Chair Furniture
+ORD1006552025-08-01CUST8347 Customer_236 55 Male HyderabadBook Education
+ORD1006562025-07-09CUST3567 Customer_407 21 Male Bengaluru Chair Furniture
+ORD1006572025-12-01CUST8110 Customer_268 54 Male Delhi Laptop Electronics
+ORD1006582025-10-14CUST4584 Customer_138 18 Female Pune Shoes Fashion
+ORD1006592025-09-02CUST4537 Customer_9 63 Male Gaya Book Education
+ORD1006602025-01-13CUST5154 Customer_453 20 Male Mumbai Book Education
+
+
+
+ORD1006612025-09-13CUST9614 Customer_235 23 Male Bengaluru Shoes Fashion
+ORD1006622025-09-17CUST8300 Customer_242 44 Female HyderabadRice Grocery
+ORD1006632025-07-20CUST1673 Customer_103 18 Male Gaya Rice Grocery
+ORD1006642025-07-07CUST7016 Customer_88 33 Female Pune Chair Furniture
+ORD1006652025-07-04CUST2672 Customer_324 27 Female Pune Laptop Electronics
+ORD1006662025-12-15CUST3237 Customer_341 48 Female Kolkata Rice Grocery
+ORD1006672025-03-02CUST2794 Customer_219 39 Male Mumbai Laptop Electronics
+ORD1006682025-03-22CUST6684 Customer_426 59 Male Bengaluru Chair Furniture
+ORD1006692025-07-12CUST3321 Customer_151 20 Female Bengaluru Laptop Electronics
+ORD1006702025-08-13CUST2904 Customer_269 60 Female Bengaluru Shoes Fashion
+ORD1006712025-07-16CUST1681 Customer_160 60 Male Delhi Shoes Fashion
+ORD1006722025-12-22CUST7863 Customer_316 37 Female Gaya Chair Furniture
+ORD1006732025-05-26CUST2218 Customer_392 57 Male Delhi Chair Furniture
+ORD1006742025-01-16CUST6288 Customer_407 55 Male Kolkata Mobile Electronics
+ORD1006752025-11-20CUST8502 Customer_220 47 Male Laptop Electronics
+ORD1006762025-12-04CUST1433 Customer_391 47 Female Mumbai Shoes Fashion
+ORD1006772025-07-21CUST4997 Customer_371 31 Male HyderabadBook Education
+ORD1006782025-08-01CUST2827 Customer_287 35 Male HyderabadBook Education
+ORD1006792025-05-30CUST4559 Customer_466 57 Female Bengaluru Mobile Electronics
+ORD1006802025-07-04CUST7093 Customer_174 23 Male Mumbai Chair Furniture
+ORD1006812025-07-07CUST8364 Customer_325 21 Male HyderabadMobile Electronics
+ORD1006822025-06-03CUST3285 Customer_232 30 Female Mumbai Mobile Electronics
+ORD1006832025-04-02CUST1104 Customer_328 64 Female HyderabadBook Education
+ORD1006842025-02-08CUST5155 Customer_165 57 Male Bengaluru Laptop Electronics
+ORD1006852025-10-24CUST6082 Customer_105 53 Female Mumbai Laptop Electronics
+ORD1006862025-12-06CUST3966 Customer_338 47 Female HyderabadChair Furniture
+ORD1006872025-04-29CUST2093 Customer_428 38 Female Mumbai Laptop Electronics
+ORD1006882025-12-31CUST9957 Customer_116 29 Female Pune Chair Furniture
+ORD1006892025-11-13CUST3682 Customer_132 56 Female Kolkata Book Education
+ORD1006902025-02-07CUST4110 Customer_73 59 Female Kolkata Rice Grocery
+ORD1006912025-08-03CUST2597 Customer_354 22 Male Kolkata Mobile Electronics
+ORD1006922025-02-22CUST8390 Customer_297 47 Female Mumbai Laptop Electronics
+ORD1006932025-12-09CUST4270 Customer_266 30 Male Kolkata Book Education
+ORD1006942025-06-22CUST3138 Customer_440 30 Female Mumbai Rice Grocery
+ORD1006952025-11-30CUST4602 Customer_150 26 Female Pune Chair Furniture
+ORD1006962025-11-11CUST7631 Customer_115 62 Female Gaya Shoes Fashion
+ORD1006972025-04-18CUST8708 Customer_462 51 Female Pune Laptop Electronics
+ORD1006982025-03-04CUST7317 Customer_70 54 Female Delhi Book Education
+ORD1006992025-07-06CUST2644 Customer_222 24 Male Pune Chair Furniture
+ORD1007002025-05-20CUST9674 Customer_232 Female Mumbai Mobile Electronics
+ORD1007012025-09-01CUST3078 Customer_230 22 Male Gaya Rice Grocery
+ORD1007022025-07-31CUST8962 Customer_440 30 Female Kolkata Book Education
+ORD1007032025-01-18CUST7236 Customer_366 38 Male Gaya Book Education
+ORD1007042025-08-18CUST4420 Customer_268 38 Male Gaya Chair Furniture
+
+
+
+ORD1007052025-05-14CUST6621 Customer_104 19 Female Mumbai Book Education
+ORD1007062025-05-05CUST8532 Customer_323 43 Female Delhi Chair Furniture
+ORD1007072025-11-19CUST6658 Customer_274 60 Male Patna Book Education
+ORD1007082025-10-06CUST4742 Customer_177 21 Male Kolkata Laptop Electronics
+ORD1007092025-04-23CUST2744 Customer_300 28 Male Bengaluru Laptop Electronics
+ORD1007102025-05-24CUST6870 Customer_53 51 Female HyderabadRice Grocery
+ORD1007112025-01-07CUST1175 Customer_472 20 Female Gaya Shoes Fashion
+ORD1007122025-09-04CUST3745 Customer_138 55 Female HyderabadLaptop Electronics
+ORD1007132025-12-14CUST6638 Customer_350 45 Male Bengaluru Shoes Fashion
+ORD1007142025-05-05CUST4037 Customer_205 30 Male Kolkata Mobile Electronics
+ORD1007152025-01-06CUST8877 Customer_105 23 Female Kolkata Book Education
+ORD1007162025-02-08CUST6096 Customer_53 51 Female Patna Shoes Fashion
+ORD1007172025-02-24CUST7371 Customer_463 38 Female Bengaluru Mobile Electronics
+ORD1007182025-02-27CUST4532 Customer_68 52 Male Pune Shoes Fashion
+ORD1007192025-09-13CUST6697 Customer_137 26 Male Pune Chair Furniture
+ORD1000502025-11-06CUST7824 Customer_190 31 Female Mumbai Rice Grocery
+ORD1007212025-09-14CUST7615 Customer_277 37 Male Patna Rice Grocery
+ORD1007222025-08-13CUST8431 Customer_90 28 Male Delhi Rice Grocery
+ORD1007232025-11-28CUST8657 Customer_495 58 Female Delhi Laptop Electronics
+ORD1007242025-01-28CUST6762 Customer_235 47 Male Delhi Rice Grocery
+ORD1007252025-10-10CUST5477 Customer_249 37 Female Kolkata Laptop Electronics
+ORD1007262025-07-06CUST8338 Customer_90 38 Male Pune Shoes Fashion
+ORD1007272025-09-29CUST3850 Customer_163 27 Female Kolkata Chair Furniture
+ORD1007282025-10-11CUST8017 Customer_371 37 Male Patna Chair Furniture
+ORD1007292025-07-30CUST5295 Customer_223 58 Female Kolkata Book Education
+ORD1007302025-01-05CUST4553 Customer_489 44 Female Kolkata Chair Furniture
+ORD1007312025-06-30CUST1269 Customer_423 22 Female Gaya Book Education
+ORD1007322025-01-09CUST6578 Customer_194 64 Female HyderabadShoes Fashion
+ORD1007332025-02-13CUST2832 Customer_204 22 Male Pune Chair Furniture
+ORD1007342025-03-07CUST8314 Customer_440 28 Female Gaya Chair Furniture
+ORD1007352025-01-27CUST7026 Customer_317 28 Male Bengaluru Rice Grocery
+ORD1007362025-09-23CUST2793 Customer_462 32 Female Gaya Mobile Electronics
+ORD1007372025-02-27CUST7522 Customer_322 53 Female Kolkata Rice Grocery
+ORD1007382025-12-29CUST1987 Customer_35 24 Male Kolkata Laptop Electronics
+ORD1007392025-12-17CUST9414 Customer_359 61 Female HyderabadRice Grocery
+ORD1007402025-07-13CUST2589 Customer_426 49 Male Delhi Laptop Electronics
+ORD1007412025-09-30CUST8851 Customer_118 64 Male Kolkata Chair Furniture
+ORD1007422025-10-31CUST4103 Customer_454 33 Male Pune Rice Grocery
+ORD1007432025-03-09CUST2138 Customer_303 42 Female Gaya Rice Grocery
+ORD1007442025-09-11CUST9645 Customer_238 29 Male Pune Chair Furniture
+ORD1007452025-11-27CUST5624 Customer_25 22 Male Patna Laptop Electronics
+ORD1007462025-11-13CUST9518 Customer_192 22 Male Pune Mobile Electronics
+ORD1007472025-01-04CUST9339 Customer_127 55 Male Patna Chair Furniture
+ORD1007482025-04-22CUST9465 Customer_274 57 Male Gaya Laptop Electronics
+
+
+
+ORD1007492025-04-23CUST6348 Customer_412 22 Female Kolkata Laptop Electronics
+ORD1007502025-07-18CUST3730 Customer_273 Female Chair Furniture
+ORD1007512025-01-11CUST8058 Customer_273 60 Female Pune Book Education
+ORD1007522025-03-12CUST2921 Customer_420 27 Male Patna Shoes Fashion
+ORD1007532025-09-19CUST9650 Customer_361 33 Female HyderabadBook Education
+ORD1007542025-01-24CUST2604 Customer_356 40 Male Kolkata Mobile Electronics
+ORD1007552025-11-19CUST9651 Customer_461 60 Female Delhi Book Education
+ORD1007562025-12-20CUST1637 Customer_70 59 Male Patna Rice Grocery
+ORD1007572025-05-08CUST9515 Customer_52 29 Female Kolkata Chair Furniture
+ORD1007582025-11-02CUST7173 Customer_44 21 Male HyderabadMobile Electronics
+ORD1007592025-06-04CUST6279 Customer_97 21 Female Kolkata Mobile Electronics
+ORD1007602025-12-27CUST2867 Customer_221 61 Male HyderabadShoes Fashion
+ORD1007612025-10-02CUST3851 Customer_487 59 Male Delhi Laptop Electronics
+ORD1007622025-12-07CUST8729 Customer_72 48 Male Kolkata Chair Furniture
+ORD1007632025-05-01CUST3580 Customer_60 56 Female Gaya Laptop Electronics
+ORD1007642025-10-13CUST4706 Customer_200 32 Male Bengaluru Laptop Electronics
+ORD1007652025-07-05CUST8834 Customer_413 61 Female Mumbai Rice Grocery
+ORD1007662025-06-24CUST6815 Customer_295 43 Female Patna Chair Furniture
+ORD1007672025-03-31CUST1790 Customer_12 43 Male HyderabadMobile Electronics
+ORD1007682025-05-09CUST9952 Customer_453 30 Female Bengaluru Mobile Electronics
+ORD1007692025-10-10CUST7600 Customer_208 23 Male Pune Laptop Electronics
+ORD1007702025-01-08CUST9628 Customer_422 27 Male Bengaluru Chair Furniture
+ORD1007712025-10-31CUST5415 Customer_460 29 Female Delhi Shoes Fashion
+ORD1007722025-10-16CUST6752 Customer_52 65 Male Kolkata Rice Grocery
+ORD1007732025-04-24CUST7110 Customer_176 60 Male HyderabadMobile Electronics
+ORD1007742025-10-06CUST5240 Customer_379 43 Male Patna Mobile Electronics
+ORD1007752025-01-10CUST5505 Customer_189 38 Female Bengaluru Book Education
+ORD1007762025-07-09CUST6116 Customer_343 32 Female Gaya Chair Furniture
+ORD1007772025-02-16CUST3566 Customer_430 45 Female Patna Mobile Electronics
+ORD1007782025-12-04CUST3763 Customer_257 57 Male HyderabadChair Furniture
+ORD1007792025-04-18CUST3948 Customer_465 38 Male HyderabadChair Furniture
+ORD1007802025-07-29CUST2369 Customer_259 56 Male Mumbai Chair Furniture
+ORD1007812025-02-21CUST3542 Customer_156 51 Male Patna Laptop Electronics
+ORD1007822025-12-23CUST7724 Customer_365 38 Male Kolkata Book Education
+ORD1007832025-09-20CUST5419 Customer_263 65 Female Patna Book Education
+ORD1007842025-12-11CUST6571 Customer_156 43 Female Pune Chair Furniture
+ORD1007852025-01-18CUST7650 Customer_453 50 Male Kolkata Book Education
+ORD1007862025-10-14CUST7445 Customer_233 60 Female Bengaluru Shoes Fashion
+ORD1007872025-06-22CUST6565 Customer_431 50 Female Gaya Book Education
+ORD1007882025-05-04CUST2969 Customer_287 59 Male Kolkata Rice Grocery
+ORD1007892025-07-13CUST3298 Customer_155 63 Female Kolkata Rice Grocery
+ORD1007902025-12-28CUST3260 Customer_237 55 Male Mumbai Book Education
+ORD1007912025-09-03CUST9962 Customer_161 45 Male Mumbai Chair Furniture
+ORD1007922025-05-21CUST6814 Customer_70 62 Male Bengaluru Shoes Fashion
+
+
+
+ORD1007932025-12-11CUST2859 Customer_395 21 Female Kolkata Rice Grocery
+ORD1007942025-05-24CUST7228 Customer_200 21 Female Bengaluru Shoes Fashion
+ORD1007952025-01-30CUST2551 Customer_343 19 Male Patna Book Education
+ORD1007962026-01-01CUST6845 Customer_385 57 Female Mumbai Shoes Fashion
+ORD1007972025-07-22CUST5806 Customer_167 48 Male Bengaluru Book Education
+ORD1007982025-07-01CUST5718 Customer_251 62 Female Kolkata Shoes Fashion
+ORD1007992025-11-07CUST8242 Customer_492 51 Male Mumbai Rice Grocery
+ORD1008002025-09-27CUST1618 Customer_166 Male Patna Rice Grocery
+ORD1008012025-05-10CUST3297 Customer_465 47 Male Gaya Mobile Electronics
+ORD1008022025-11-14CUST4901 Customer_327 29 Female Mumbai Rice Grocery
+ORD1008032025-10-11CUST3189 Customer_384 30 Female Kolkata Book Education
+ORD1008042025-12-11CUST3690 Customer_413 32 Female Delhi Book Education
+ORD1008052025-05-22CUST7876 Customer_34 57 Male Bengaluru Shoes Fashion
+ORD1008062025-03-02CUST9089 Customer_303 50 Female Gaya Shoes Fashion
+ORD1008072025-10-05CUST6442 Customer_10 62 Male Kolkata Chair Furniture
+ORD1008082025-06-20CUST9514 Customer_180 28 Female Patna Chair Furniture
+ORD1008092025-06-02CUST7903 Customer_163 60 Female Bengaluru Shoes Fashion
+ORD1008102025-06-04CUST1658 Customer_324 52 Male HyderabadRice Grocery
+ORD1008112025-01-04CUST6719 Customer_394 30 Female Patna Book Education
+ORD1008122025-01-31CUST4941 Customer_457 50 Female Mumbai Chair Furniture
+ORD1008132025-05-14CUST5851 Customer_418 50 Male Patna Mobile Electronics
+ORD1008142025-09-17CUST1149 Customer_14 40 Female HyderabadLaptop Electronics
+ORD1008152025-09-08CUST6336 Customer_63 52 Male Delhi Mobile Electronics
+ORD1008162025-06-04CUST1960 Customer_367 44 Male Kolkata Rice Grocery
+ORD1008172025-03-29CUST6933 Customer_224 23 Female Patna Rice Grocery
+ORD1008182025-07-05CUST3006 Customer_343 49 Male HyderabadChair Furniture
+ORD1008192025-12-09CUST8754 Customer_77 28 Male Kolkata Mobile Electronics
+ORD1008202025-01-09CUST9458 Customer_391 60 Male Bengaluru Laptop Electronics
+ORD1008212025-06-16CUST4979 Customer_273 45 Male Mumbai Book Education
+ORD1008222025-09-15CUST6340 Customer_125 37 Female Gaya Rice Grocery
+ORD1008232025-07-21CUST7814 Customer_134 20 Female Bengaluru Shoes Fashion
+ORD1008242025-03-30CUST8199 Customer_39 64 Female Gaya Chair Furniture
+ORD1008252025-07-13CUST9718 Customer_11 57 Female Laptop Electronics
+ORD1008262025-04-05CUST7065 Customer_335 24 Female Bengaluru Shoes Fashion
+ORD1008272025-06-19CUST6162 Customer_165 42 Male Mumbai Laptop Electronics
+ORD1008282025-11-03CUST6944 Customer_460 33 Male Gaya Book Education
+ORD1008292025-02-27CUST8319 Customer_362 44 Male Delhi Rice Grocery
+ORD1008302025-04-10CUST6540 Customer_230 19 Male Kolkata Shoes Fashion
+ORD1008312025-01-09CUST8453 Customer_68 53 Female Patna Laptop Electronics
+ORD1008322025-08-16CUST5605 Customer_23 30 Female Kolkata Shoes Fashion
+ORD1008332025-11-05CUST8704 Customer_440 20 Female Kolkata Mobile Electronics
+ORD1008342025-12-03CUST3264 Customer_227 51 Female Gaya Mobile Electronics
+ORD1008352025-03-21CUST9364 Customer_352 62 Female Gaya Book Education
+ORD1008362025-06-10CUST3366 Customer_47 23 Male Patna Mobile Electronics
+
+
+
+ORD1008372025-09-05CUST6067 Customer_499 26 Male Kolkata Mobile Electronics
+ORD1008382025-11-27CUST5389 Customer_362 44 Female Mumbai Shoes Fashion
+ORD1008392025-05-12CUST8766 Customer_140 47 Female HyderabadLaptop Electronics
+ORD1000502025-08-03CUST5585 Customer_289 35 Male Kolkata Chair Furniture
+ORD1008412025-04-16CUST7544 Customer_225 26 Male Mumbai Book Education
+ORD1008422025-11-06CUST8217 Customer_83 43 Female Delhi Book Education
+ORD1008432025-06-05CUST6780 Customer_262 42 Female HyderabadBook Education
+ORD1008442025-08-22CUST9804 Customer_284 32 Male Patna Mobile Electronics
+ORD1008452025-11-07CUST5876 Customer_389 42 Female Patna Mobile Electronics
+ORD1008462025-09-29CUST1026 Customer_445 65 Female Kolkata Book Education
+ORD1008472025-11-08CUST5432 Customer_163 57 Male Patna Shoes Fashion
+ORD1008482025-03-28CUST8575 Customer_481 21 Male Patna Book Education
+ORD1008492025-03-17CUST5455 Customer_287 26 Male Bengaluru Chair Furniture
+ORD1008502025-04-12CUST2834 Customer_98 Male Kolkata Rice Grocery
+ORD1008512025-06-29CUST4431 Customer_177 19 Male Gaya Chair Furniture
+ORD1008522025-06-01CUST3744 Customer_2 20 Female Mumbai Shoes Fashion
+ORD1008532025-03-17CUST1962 Customer_116 23 Male Delhi Rice Grocery
+ORD1008542025-06-25CUST7787 Customer_139 40 Male Pune Book Education
+ORD1008552025-05-19CUST3679 Customer_242 48 Male Patna Shoes Fashion
+ORD1008562025-05-26CUST8455 Customer_468 37 Female Bengaluru Shoes Fashion
+ORD1008572025-09-18CUST4973 Customer_443 24 Male Kolkata Shoes Fashion
+ORD1008582025-12-20CUST7578 Customer_245 38 Female Delhi Rice Grocery
+ORD1008592025-07-28CUST9287 Customer_281 54 Female Bengaluru Book Education
+ORD1008602025-07-10CUST3430 Customer_184 51 Female Kolkata Mobile Electronics
+ORD1008612025-10-15CUST9817 Customer_388 45 Male Patna Mobile Electronics
+ORD1008622025-09-28CUST7072 Customer_4 62 Female Gaya Shoes Fashion
+ORD1008632025-05-10CUST9510 Customer_15 63 Female Delhi Chair Furniture
+ORD1008642025-11-20CUST3327 Customer_94 19 Female Pune Laptop Electronics
+ORD1008652025-07-20CUST2202 Customer_26 26 Female Patna Chair Furniture
+ORD1008662025-12-23CUST3767 Customer_470 49 Female HyderabadChair Furniture
+ORD1008672025-01-09CUST4947 Customer_352 58 Male Bengaluru Chair Furniture
+ORD1008682025-06-14CUST4888 Customer_13 38 Male Pune Shoes Fashion
+ORD1008692025-12-21CUST4996 Customer_184 64 Male Delhi Book Education
+ORD1008702025-09-12CUST4112 Customer_71 33 Female Kolkata Shoes Fashion
+ORD1008712025-03-16CUST1442 Customer_371 22 Female Pune Book Education
+ORD1008722025-12-23CUST2757 Customer_366 55 Male Patna Mobile Electronics
+ORD1008732025-11-18CUST5319 Customer_129 35 Female Mumbai Mobile Electronics
+ORD1008742025-12-12CUST4391 Customer_214 36 Male HyderabadMobile Electronics
+ORD1008752025-10-12CUST7317 Customer_304 25 Male Delhi Chair Furniture
+ORD1008762025-11-30CUST7473 Customer_372 36 Female Mumbai Rice Grocery
+ORD1008772025-12-19CUST9104 Customer_443 37 Male Bengaluru Book Education
+ORD1008782025-11-25CUST7091 Customer_1 48 Female Mumbai Rice Grocery
+ORD1008792025-05-18CUST1258 Customer_443 40 Male HyderabadLaptop Electronics
+ORD1008802025-10-08CUST1691 Customer_177 55 Male Mumbai Mobile Electronics
+
+
+
+ORD1008812025-06-27CUST9404 Customer_463 19 Female Gaya Book Education
+ORD1008822025-08-22CUST6532 Customer_187 43 Female HyderabadRice Grocery
+ORD1008832025-06-03CUST1779 Customer_378 65 Female Delhi Shoes Fashion
+ORD1008842025-03-07CUST4651 Customer_359 54 Male Kolkata Mobile Electronics
+ORD1008852025-05-07CUST9027 Customer_153 43 Female Mumbai Shoes Fashion
+ORD1008862025-08-12CUST1396 Customer_479 34 Male Pune Chair Furniture
+ORD1008872025-01-15CUST9132 Customer_210 21 Female Pune Rice Grocery
+ORD1008882025-11-26CUST4926 Customer_102 45 Male Delhi Book Education
+ORD1008892025-03-25CUST3987 Customer_126 55 Female Pune Rice Grocery
+ORD1008902025-08-30CUST5136 Customer_257 30 Male Mumbai Rice Grocery
+ORD1008912025-02-11CUST8849 Customer_380 19 Female Patna Book Education
+ORD1008922025-04-26CUST3603 Customer_448 56 Female Delhi Rice Grocery
+ORD1008932025-05-18CUST4073 Customer_353 25 Female Pune Shoes Fashion
+ORD1008942025-12-01CUST7068 Customer_106 24 Male HyderabadBook Education
+ORD1008952025-10-20CUST5762 Customer_404 20 Female Mumbai Book Education
+ORD1008962025-11-05CUST1611 Customer_451 49 Male Patna Rice Grocery
+ORD1008972025-06-07CUST1806 Customer_354 58 Male Patna Chair Furniture
+ORD1008982025-11-02CUST4730 Customer_484 20 Female Patna Laptop Electronics
+ORD1008992025-12-15CUST7164 Customer_251 64 Male Pune Shoes Fashion
+ORD1009002025-04-27CUST3867 Customer_54 Female Laptop Electronics
+ORD1009012025-10-21CUST6152 Customer_438 39 Female Bengaluru Mobile Electronics
+ORD1009022025-11-19CUST6881 Customer_158 41 Female Delhi Laptop Electronics
+ORD1009032025-11-12CUST3438 Customer_98 56 Male Patna Shoes Fashion
+ORD1009042025-03-25CUST1890 Customer_277 21 Male Gaya Chair Furniture
+ORD1009052025-01-11CUST9994 Customer_13 49 Male Delhi Chair Furniture
+ORD1009062025-12-01CUST1906 Customer_76 36 Male HyderabadChair Furniture
+ORD1009072025-01-19CUST4977 Customer_359 33 Male Mumbai Chair Furniture
+ORD1009082025-02-14CUST6241 Customer_242 55 Male HyderabadChair Furniture
+ORD1009092025-08-13CUST1759 Customer_71 64 Female Delhi Laptop Electronics
+ORD1009102025-07-28CUST4515 Customer_281 48 Female HyderabadRice Grocery
+ORD1009112025-06-06CUST6309 Customer_345 55 Female Mumbai Rice Grocery
+ORD1009122025-02-10CUST2384 Customer_365 49 Male Gaya Laptop Electronics
+ORD1009132025-05-04CUST5025 Customer_159 28 Female Patna Book Education
+ORD1009142025-07-28CUST5363 Customer_86 22 Female Pune Shoes Fashion
+ORD1009152025-05-21CUST1753 Customer_493 58 Female HyderabadShoes Fashion
+ORD1009162025-02-27CUST7186 Customer_150 36 Female Mumbai Shoes Fashion
+ORD1009172025-04-03CUST2804 Customer_115 32 Female Pune Mobile Electronics
+ORD1009182025-11-06CUST1997 Customer_219 29 Female Patna Mobile Electronics
+ORD1009192025-11-19CUST7609 Customer_327 41 Female Pune Shoes Fashion
+ORD1009202025-12-08CUST7026 Customer_105 36 Female Bengaluru Mobile Electronics
+ORD1009212025-05-06CUST6414 Customer_82 30 Male Delhi Mobile Electronics
+ORD1009222025-10-19CUST3652 Customer_436 59 Male HyderabadBook Education
+ORD1009232025-10-08CUST4106 Customer_226 33 Male Gaya Rice Grocery
+ORD1009242025-11-13CUST7933 Customer_232 50 Male Bengaluru Rice Grocery
+
+
+
+ORD1009252025-06-10CUST9299 Customer_13 62 Female Delhi Mobile Electronics
+ORD1009262025-12-24CUST5160 Customer_144 52 Female Delhi Book Education
+ORD1009272025-01-31CUST2260 Customer_325 54 Male Kolkata Mobile Electronics
+ORD1009282025-08-03CUST7676 Customer_42 39 Female Bengaluru Rice Grocery
+ORD1009292025-08-29CUST7405 Customer_15 57 Male Mumbai Shoes Fashion
+ORD1009302025-12-07CUST4565 Customer_359 65 Female Delhi Rice Grocery
+ORD1009312025-01-18CUST6319 Customer_393 32 Female Bengaluru Shoes Fashion
+ORD1009322025-08-04CUST4077 Customer_138 50 Male Mumbai Laptop Electronics
+ORD1009332025-01-21CUST8537 Customer_494 50 Female HyderabadLaptop Electronics
+ORD1009342025-04-02CUST6407 Customer_107 63 Male Kolkata Shoes Fashion
+ORD1009352025-11-01CUST2025 Customer_239 37 Female Delhi Chair Furniture
+ORD1009362025-11-10CUST1122 Customer_447 65 Female Kolkata Rice Grocery
+ORD1009372025-10-22CUST1997 Customer_437 40 Male Patna Chair Furniture
+ORD1009382025-09-28CUST9287 Customer_420 30 Male Pune Shoes Fashion
+ORD1009392025-12-13CUST5413 Customer_20 62 Male Bengaluru Laptop Electronics
+ORD1009402025-08-22CUST8466 Customer_66 43 Male HyderabadLaptop Electronics
+ORD1009412025-06-11CUST9493 Customer_34 35 Male Gaya Laptop Electronics
+ORD1009422025-04-02CUST3576 Customer_397 53 Male HyderabadLaptop Electronics
+ORD1009432025-07-27CUST2586 Customer_386 64 Male Pune Laptop Electronics
+ORD1009442025-07-13CUST3499 Customer_139 20 Male Mumbai Chair Furniture
+ORD1009452025-08-12CUST7718 Customer_293 26 Male Delhi Mobile Electronics
+ORD1009462025-06-28CUST3330 Customer_450 62 Female HyderabadMobile Electronics
+ORD1009472025-08-04CUST9113 Customer_175 61 Male HyderabadBook Education
+ORD1009482025-02-24CUST1004 Customer_191 64 Female Bengaluru Mobile Electronics
+ORD1009492025-05-17CUST8381 Customer_112 40 Male Kolkata Book Education
+ORD1009502025-11-01CUST6316 Customer_59 Male Pune Laptop Electronics
+ORD1009512025-05-17CUST2403 Customer_258 22 Male Pune Mobile Electronics
+ORD1009522025-02-13CUST1357 Customer_361 48 Male Delhi Shoes Fashion
+ORD1009532025-04-16CUST4337 Customer_269 53 Female Kolkata Mobile Electronics
+ORD1009542025-08-11CUST9175 Customer_441 36 Male Mumbai Shoes Fashion
+ORD1009552025-06-16CUST7177 Customer_40 21 Male HyderabadShoes Fashion
+ORD1009562025-12-10CUST9009 Customer_424 43 Male Mumbai Mobile Electronics
+ORD1009572025-03-07CUST8996 Customer_165 59 Male HyderabadShoes Fashion
+ORD1009582025-04-10CUST3759 Customer_313 65 Female Mumbai Rice Grocery
+ORD1009592025-01-09CUST9966 Customer_455 46 Female Kolkata Rice Grocery
+ORD1000502025-02-09CUST7188 Customer_89 62 Male Bengaluru Mobile Electronics
+ORD1009612025-10-31CUST6311 Customer_257 65 Female Mumbai Book Education
+ORD1009622025-04-20CUST8525 Customer_126 40 Female Gaya Shoes Fashion
+ORD1009632025-12-09CUST9285 Customer_452 49 Female Gaya Laptop Electronics
+ORD1009642025-12-08CUST8387 Customer_133 48 Female Bengaluru Chair Furniture
+ORD1009652025-09-02CUST5726 Customer_192 20 Male Pune Mobile Electronics
+ORD1009662025-05-13CUST7238 Customer_335 54 Female Delhi Mobile Electronics
+ORD1009672025-07-05CUST3843 Customer_209 44 Female Bengaluru Mobile Electronics
+ORD1009682025-02-15CUST7185 Customer_285 61 Female Delhi Chair Furniture
+
+
+
+ORD1009692025-07-21CUST7757 Customer_494 58 Male Mumbai Laptop Electronics
+ORD1009702025-08-08CUST1713 Customer_457 27 Female Bengaluru Shoes Fashion
+ORD1009712025-02-22CUST6987 Customer_107 31 Female Gaya Rice Grocery
+ORD1009722025-09-05CUST5829 Customer_37 32 Male Delhi Book Education
+ORD1009732025-11-05CUST2542 Customer_219 43 Male HyderabadLaptop Electronics
+ORD1009742025-07-28CUST4869 Customer_392 37 Male Kolkata Laptop Electronics
+ORD1009752025-10-15CUST2870 Customer_311 25 Female Book Education
+ORD1009762025-05-29CUST5338 Customer_269 22 Female Patna Shoes Fashion
+ORD1009772025-10-16CUST5373 Customer_256 24 Male Delhi Shoes Fashion
+ORD1009782025-02-20CUST2256 Customer_284 50 Male HyderabadShoes Fashion
+ORD1009792025-06-13CUST7388 Customer_6 48 Male HyderabadRice Grocery
+ORD1009802025-11-22CUST1159 Customer_492 30 Male Pune Laptop Electronics
+ORD1009812025-08-03CUST9081 Customer_448 24 Male HyderabadBook Education
+ORD1009822025-03-30CUST4003 Customer_305 54 Female Bengaluru Rice Grocery
+ORD1009832025-09-03CUST6511 Customer_15 54 Male Mumbai Shoes Fashion
+ORD1009842025-11-07CUST2836 Customer_434 46 Female Patna Shoes Fashion
+ORD1009852025-05-19CUST3730 Customer_397 58 Female Gaya Chair Furniture
+ORD1009862025-03-27CUST9945 Customer_495 24 Male HyderabadRice Grocery
+ORD1009872025-03-16CUST1603 Customer_434 37 Female Mumbai Mobile Electronics
+ORD1009882025-12-16CUST9871 Customer_187 27 Female Pune Mobile Electronics
+ORD1009892025-10-18CUST2418 Customer_425 57 Male Gaya Chair Furniture
+ORD1009902025-04-14CUST2126 Customer_385 34 Male Patna Rice Grocery
+ORD1009912025-02-28CUST1284 Customer_375 31 Male Bengaluru Mobile Electronics
+ORD1009922025-08-20CUST6389 Customer_484 27 Male Kolkata Chair Furniture
+ORD1009932025-06-16CUST9381 Customer_10 52 Male Patna Book Education
+ORD1009942025-07-11CUST2967 Customer_483 52 Female Mumbai Chair Furniture
+ORD1009952025-07-30CUST9092 Customer_97 64 Male Mumbai Chair Furniture
+ORD1009962025-06-12CUST9351 Customer_352 36 Male Pune Book Education
+ORD1009972025-11-07CUST6410 Customer_301 61 Male Gaya Laptop Electronics
+ORD1009982025-09-03CUST7618 Customer_154 25 Male Gaya Shoes Fashion
+ORD1009992025-09-30CUST9544 Customer_140 62 Female HyderabadLaptop Electronics
+ORD1010002025-02-21CUST9501 Customer_241 Male Delhi Mobile Electronics
+ORD1010012025-04-23CUST2714 Customer_98 58 Female Gaya Chair Furniture
+
+
+
+Quantity Unit_Price Total_Sales
+7 2829.77 19808.39
+5 27906.16 139530.8
+8 37491.06 299928.5
+9 28541.36 256872.2
+
+10 14036.59 140365.9
+9 35947.47 323527.2
+6 49997.53 299985.2
+3 9488.83 28466.49
+6 19488.23 116929.4
+8 18024.34 144194.7
+3 14151.42 42454.26
+6 47175.43 283052.6
+5 7413.68 37068.4
+8 12042.52 96340.16
+8 25465.31 203722.5
+
+10 20111.09 201110.9
+10 40109.12 401091.2
+1 7280.64 7280.64
+5 6122.59 30612.95
+8 23770.36 190162.9
+1 2344.98 2344.98
+7 15396.37 107774.6
+
+10 31576.5 315765
+2 11127.06 22254.12
+7 36069.86 252489
+9 39414.46 354730.1
+2 23837.41 47674.82
+5 14534.79 72673.95
+
+10 21393.69 213936.9
+2 21382.16 42764.32
+1 15831.03 15831.03
+8 21791.66 174333.3
+5 17556.08 87780.4
+5 46822.84 234114.2
+4 47896.7 191586.8
+8 44911.49 359291.9
+7 40746.79 285227.5
+4 4794.08 19176.32
+8 29270.98 234167.8
+1 3992.85 3992.85
+5 44365.94 221829.7
+4 29915.72 119662.9
+6 16521.44 99128.64
+
+
+
+6 14399.11 86394.66
+9 1491.63 13424.67
+2 6210.24 12420.48
+2 47649.61 95299.22
+5 24854.05 124270.3
+9 30834.87 277513.8
+6 20561.97 123371.8
+
+10 49367.75 493677.5
+6 4656.1 27936.6
+7 42345.82 296420.7
+7 37747.24 264230.7
+2 33304.17 66608.34
+6 41157.44 246944.6
+7 47669.63 333687.4
+1 44708.5 44708.5
+5 36809.08 184045.4
+4 25292.97 101171.9
+1 29263.26 29263.26
+3 5679.91 17039.73
+6 46235.96 277415.8
+9 27164.06 244476.5
+
+10 8905.49 89054.9
+10 17406.52 174065.2
+5 27366.58 136832.9
+5 41282.63 206413.2
+8 13645.41 109163.3
+8 27337.64 218701.1
+5 29219.72 146098.6
+3 8572.65 25717.95
+9 45419.62 408776.6
+4 21599.26 86397.04
+2 8883.45 17766.9
+9 12290.45 110614.1
+6 10784.64 64707.84
+1 35862.34 35862.34
+1 13129.64 13129.64
+9 45747.37 411726.3
+6 5849.89 35099.34
+9 48845.5 439609.5
+9 24828.05 223452.5
+8 17841.4 142731.2
+
+10 13662.66 136626.6
+4 12169.49 48677.96
+6 349.06 2094.36
+
+
+
+8 20498.74 163989.9
+9 13111.39 118002.5
+9 45000.49 405004.4
+2 3455.06 6910.12
+8 28874.64 230997.1
+3 47917.49 143752.5
+
+10 21399.51 213995.1
+5 15127.88 75639.4
+7 41677.34 291741.4
+
+10 40745.55 407455.5
+2 31217.12 62434.24
+5 553.62 2768.1
+4 6974.66 27898.64
+9 19437.88 174940.9
+9 13617.93 122561.4
+8 38897.58 311180.6
+6 8547.07 51282.42
+7 46263.01 323841.1
+2 2814.55 5629.1
+8 41112.05 328896.4
+4 36826.88 147307.5
+3 42806.52 128419.6
+6 5533 33198
+3 2638.97 7916.91
+4 25002.72 100010.9
+
+10 10391.75 103917.5
+10 22437.16 224371.6
+9 41053.56 369482
+2 21391.19 42782.38
+4 36875.19 147500.8
+4 41640.74 166563
+2 25795.55 51591.1
+8 4391.72 35133.76
+2 18152.14 36304.28
+7 16254.12 113778.8
+5 3805.27 19026.35
+7 46489.41 325425.9
+1 17041.21 17041.21
+6 41494.43 248966.6
+
+10 25930.1 259301
+8 26281.83 210254.6
+8 21833.32 174666.6
+6 40577.1 243462.6
+5 39039.96 195199.8
+
+
+
+10 29902.97 299029.7
+7 18967.46 132772.2
+
+10 42943.17 429431.7
+6 24216.91 145301.5
+9 7093.9 63845.1
+5 29748.17 148740.9
+8 22563.72 180509.8
+7 17321.68 121251.8
+9 25138.42 226245.8
+6 33887.35 203324.1
+6 30177.21 181063.3
+3 28572.4 85717.2
+4 6898.4 27593.6
+1 20740.93 20740.93
+3 37576.35 112729.1
+6 20416.04 122496.2
+2 8092.78 16185.56
+4 1973.64 7894.56
+8 41749.55 333996.4
+9 48833.27 439499.4
+7 48642.53 340497.7
+4 42299.16 169196.6
+5 38233.51 191167.6
+4 6502.53 26010.12
+2 18293.96 36587.92
+2 40810.01 81620.02
+7 28469 199283
+
+10 1085.13 10851.3
+3 145.78 437.34
+9 22636.01 203724.1
+6 39830.65 238983.9
+
+10 41054.72 410547.2
+4 35300.11 141200.4
+5 25053.25 125266.3
+7 23674.97 165724.8
+8 37436.26 299490.1
+
+10 31730.57 317305.7
+4 30139.27 120557.1
+3 10289.67 30869.01
+1 8906.18 8906.18
+2 21856.64 43713.28
+9 26781.39 241032.5
+9 49390.42 444513.8
+9 21792.76 196134.8
+
+
+
+4 16850.46 67401.84
+2 14098.13 28196.26
+3 34033.11 102099.3
+5 1423.81 7119.05
+8 29735.57 237884.6
+7 1481 10367
+8 23129.36 185034.9
+2 44336.38 88672.76
+5 2983.97 14919.85
+3 8820.55 26461.65
+1 21001.73 21001.73
+9 16767.5 150907.5
+3 47959.38 143878.1
+5 7642.84 38214.2
+
+10 1959.05 19590.5
+4 26460.39 105841.6
+6 9132.85 54797.1
+8 34260.45 274083.6
+4 22321.8 89287.2
+8 27492.16 219937.3
+1 35489.21 35489.21
+8 31510.55 252084.4
+1 16633.85 16633.85
+8 27608.55 220868.4
+7 25521.26 178648.8
+4 35658.89 142635.6
+8 18088.02 144704.2
+3 16041.29 48123.87
+9 16533.74 148803.7
+1 16714.64 16714.64
+4 46356.08 185424.3
+8 2636.28 21090.24
+6 34808.76 208852.6
+
+10 17713.87 177138.7
+3 4421.33 13263.99
+1 49067.82 49067.82
+6 18644.18 111865.1
+9 14462.81 130165.3
+1 29838.32 29838.32
+5 9508.4 47542
+4 39054.95 156219.8
+6 20308.85 121853.1
+4 15549.95 62199.8
+1 34192.3 34192.3
+
+
+
+2 12214.1 24428.2
+10 49086.64 490866.4
+8 20404.62 163237
+8 49347.28 394778.2
+1 25336.7 25336.7
+5 7361.11 36805.55
+4 33205.94 132823.8
+4 21609.52 86438.08
+
+10 33072.39 330723.9
+6 46679.69 280078.1
+3 17931.34 53794.02
+4 5518.32 22073.28
+7 15331.09 107317.6
+1 41626.11 41626.11
+8 33479.62 267837
+9 44135.66 397220.9
+
+10 4504.89 45048.9
+7 28710.98 200976.9
+6 25562.3 153373.8
+3 2860.83 8582.49
+4 1486.03 5944.12
+8 4159.17 33273.36
+7 6218.47 43529.29
+
+10 29646.26 296462.6
+7 10674.88 74724.16
+4 44577.29 178309.2
+6 36587.03 219522.2
+3 25277.79 75833.37
+
+10 30855.5 308555
+7 19829.73 138808.1
+7 46461.17 325228.2
+2 32168.36 64336.72
+2 1655.36 3310.72
+4 44463.18 177852.7
+6 43576.14 261456.8
+1 43789.89 43789.89
+1 34757.71 34757.71
+7 6196.22 43373.54
+8 36364.84 290918.7
+3 15948.34 47845.02
+5 17292.4 86462
+6 29255.02 175530.1
+4 25906.46 103625.8
+9 6110.1 54990.9
+
+
+
+10 36331.75 363317.5
+8 6459.95 51679.6
+4 25164.5 100658
+5 49665.71 248328.6
+7 13789.53 96526.71
+5 16404.25 82021.25
+3 32373.88 97121.64
+7 21466.96 150268.7
+5 47201.84 236009.2
+5 36171.66 180858.3
+8 47311.77 378494.2
+9 28865.26 259787.3
+2 48433.7 96867.4
+7 7528.42 52698.94
+4 46629.93 186519.7
+3 32403.32 97209.96
+6 14220.63 85323.78
+6 5810.2 34861.2
+6 22627.46 135764.8
+9 20619.08 185571.7
+2 45034.12 90068.24
+2 40768.5 81537
+3 35888.63 107665.9
+9 23875.09 214875.8
+2 17100.29 34200.58
+7 15202.84 106419.9
+6 17696.96 106181.8
+6 13138.1 78828.6
+5 3842.06 19210.3
+4 6495.5 25982
+4 43207.48 172829.9
+4 49876.67 199506.7
+1 2599.12 2599.12
+4 6652.95 26611.8
+4 20533.23 82132.92
+6 28595.31 171571.9
+5 9509.13 47545.65
+7 1106.55 7745.85
+6 39075.07 234450.4
+7 7046.4 49324.8
+5 40763.95 203819.8
+1 3727.43 3727.43
+4 46771.94 187087.8
+7 43207.91 302455.4
+
+
+
+3 5803.11 17409.33
+4 30974.95 123899.8
+4 40276.76 161107
+8 17270.72 138165.8
+6 8249.36 49496.16
+8 42935.06 343480.5
+8 1722.06 13776.48
+5 25857.91 129289.6
+4 47319.13 189276.5
+2 21816.67 43633.34
+3 10075.98 30227.94
+9 22182.44 199642
+6 35006.3 210037.8
+
+10 16222.64 162226.4
+4 1935.28 7741.12
+4 28385.87 113543.5
+8 33388.11 267104.9
+1 1005.21 1005.21
+5 27900.36 139501.8
+
+10 31855.44 318554.4
+9 45988.02 413892.2
+7 19261.81 134832.7
+8 22233.15 177865.2
+4 2247.11 8988.44
+6 27965.93 167795.6
+5 13013.63 65068.15
+2 31943.19 63886.38
+5 26823.14 134115.7
+
+10 11637.38 116373.8
+5 38518.95 192594.8
+6 25123.86 150743.2
+9 47289.86 425608.7
+4 18655.09 74620.36
+3 45718.65 137156
+
+10 21580.33 215803.3
+5 10932.32 54661.6
+6 12740.73 76444.38
+9 12137.54 109237.9
+1 36943.51 36943.51
+2 33566.2 67132.4
+2 32332.27 64664.54
+8 47254.7 378037.6
+3 42538.14 127614.4
+4 25840.34 103361.4
+
+
+
+1 8162.84 8162.84
+5 49012.25 245061.3
+5 19538.67 97693.35
+1 5053.68 5053.68
+6 14400.18 86401.08
+4 28464.26 113857
+5 40682.5 203412.5
+7 45480.39 318362.7
+6 42742.96 256457.8
+
+10 19010.69 190106.9
+5 31244.32 156221.6
+7 42733.08 299131.6
+1 44751.42 44751.42
+
+10 47493.59 474935.9
+8 46122.45 368979.6
+3 31028.12 93084.36
+2 48986.48 97972.96
+
+10 12839.38 128393.8
+1 6050.27 6050.27
+2 42518.8 85037.6
+4 22806.21 91224.84
+4 39453.46 157813.8
+2 28311.58 56623.16
+3 11513.96 34541.88
+8 16079.7 128637.6
+5 21152.92 105764.6
+7 20998.7 146990.9
+6 13054.61 78327.66
+9 46780.58 421025.2
+7 34258.83 239811.8
+7 17055.84 119390.9
+
+10 7876.48 78764.8
+10 34976.79 349767.9
+8 38672.34 309378.7
+1 48695.59 48695.59
+9 41871.43 376842.9
+6 26179.81 157078.9
+1 23398.57 23398.57
+5 24596.56 122982.8
+1 35804.49 35804.49
+3 36239.15 108717.5
+5 21143.07 105715.4
+8 30277.06 242216.5
+4 41264.56 165058.2
+
+
+
+5 11761.9 58809.5
+9 48807.37 439266.3
+4 1895.99 7583.96
+3 26269.62 78808.86
+2 1793.29 3586.58
+5 18223.06 91115.3
+7 43850.91 306956.4
+1 15617.29 15617.29
+2 36062.36 72124.72
+2 24194.96 48389.92
+3 46253.94 138761.8
+1 22534.47 22534.47
+5 23003.28 115016.4
+5 6619.66 33098.3
+4 7231.17 28924.68
+
+10 14441.39 144413.9
+4 39636.15 158544.6
+
+10 6633.6 66336
+6 31722.52 190335.1
+3 24990.09 74970.27
+6 26716.59 160299.5
+8 28813.93 230511.4
+2 2209.43 4418.86
+2 572.39 1144.78
+5 26522.29 132611.5
+2 25875.53 51751.06
+9 37176.15 334585.4
+
+10 315.67 3156.7
+1 30640.69 30640.69
+8 23432.88 187463
+3 29297.53 87892.59
+6 33928.27 203569.6
+6 13857.45 83144.7
+9 29804.26 268238.3
+9 12279.11 110512
+6 5060.75 30364.5
+2 42427.93 84855.86
+
+10 43997.22 439972.2
+1 28812.06 28812.06
+1 1229.02 1229.02
+3 29528.77 88586.31
+9 24864.11 223777
+8 11693.63 93549.04
+2 5988.17 11976.34
+
+
+
+1 3839.04 3839.04
+5 3146.73 15733.65
+7 33771.26 236398.8
+3 28342.81 85028.43
+5 48457.94 242289.7
+2 41096.75 82193.5
+9 19415.21 174736.9
+4 8654.13 34616.52
+5 26337.15 131685.8
+
+10 43946.96 439469.6
+8 30576 244608
+7 32289.77 226028.4
+2 18153.87 36307.74
+1 5815.69 5815.69
+1 47927.36 47927.36
+8 30816.21 246529.7
+2 45809.09 91618.18
+
+10 7127.33 71273.3
+9 41434.83 372913.5
+4 36242.41 144969.6
+
+10 13908.48 139084.8
+1 9009.36 9009.36
+6 36021.08 216126.5
+
+10 44045.66 440456.6
+3 41596.85 124790.6
+9 21020.37 189183.3
+6 28483.33 170900
+8 22060.38 176483
+9 17074.46 153670.1
+6 7136.1 42816.6
+4 33964.14 135856.6
+7 46331.16 324318.1
+
+10 27530.02 275300.2
+2 24291.74 48583.48
+5 13257.79 66288.95
+
+10 16360.67 163606.7
+6 40480.73 242884.4
+2 747.57 1495.14
+2 35420.46 70840.92
+8 38957.59 311660.7
+3 2762.18 8286.54
+2 33800.83 67601.66
+4 4113.4 16453.6
+
+10 24297.48 242974.8
+
+
+
+9 5037.6 45338.4
+8 34803.41 278427.3
+9 9123.43 82110.87
+6 6567.81 39406.86
+9 27766.56 249899
+5 33535.53 167677.7
+9 48011.48 432103.3
+9 21084.4 189759.6
+3 37002.06 111006.2
+3 33382.46 100147.4
+5 16321.45 81607.25
+1 767.61 767.61
+8 18862.36 150898.9
+2 47693.33 95386.66
+3 33234.99 99704.97
+9 7268.14 65413.26
+
+10 10702.89 107028.9
+2 13323.8 26647.6
+4 27565.01 110260
+1 40225.63 40225.63
+1 12494.97 12494.97
+3 40440.72 121322.2
+
+10 25386.4 253864
+3 7991.06 23973.18
+9 41886.87 376981.8
+
+10 7062.57 70625.7
+10 8028.98 80289.8
+7 49735.32 348147.2
+4 25461.32 101845.3
+1 30210.72 30210.72
+6 42150.74 252904.4
+1 16249.69 16249.69
+6 16403.01 98418.06
+7 19933.44 139534.1
+3 48879.87 146639.6
+2 32458.06 64916.12
+9 32104.55 288941
+3 35318.2 105954.6
+1 47870.04 47870.04
+1 47848 47848
+7 751.97 5263.79
+2 22666.98 45333.96
+8 12225.23 97801.84
+7 17760.62 124324.3
+
+
+
+6 8151.02 48906.12
+9 12514.53 112630.8
+1 40250.63 40250.63
+3 48031.9 144095.7
+8 45296.32 362370.6
+5 25036.53 125182.7
+5 21466.01 107330.1
+2 28506.81 57013.62
+6 30698.79 184192.7
+6 3230.47 19382.82
+6 13606.65 81639.9
+6 9146.39 54878.34
+9 26764.87 240883.8
+7 6887.98 48215.86
+6 49889.13 299334.8
+4 39050.88 156203.5
+1 14634.25 14634.25
+7 33006.89 231048.2
+9 46663.92 419975.3
+9 3626.27 32636.43
+8 13184.14 105473.1
+5 41509.54 207547.7
+2 27044.74 54089.48
+2 35113.98 70227.96
+5 38032.02 190160.1
+9 37614.58 338531.2
+4 18505.56 74022.24
+6 21017.46 126104.8
+8 1204.93 9639.44
+7 36390.58 254734.1
+2 17302.3 34604.6
+
+10 6613.42 66134.2
+5 28280.37 141401.9
+1 6150.86 6150.86
+4 26924.41 107697.6
+3 6301.32 18903.96
+
+10 39690.68 396906.8
+6 36327.94 217967.6
+
+10 21547.89 215478.9
+8 32749.76 261998.1
+
+10 43251.3 432513
+3 47748.45 143245.4
+4 16276.94 65107.76
+9 11122.7 100104.3
+
+
+
+2 39005.27 78010.54
+6 16346.82 98080.92
+4 3859.9 15439.6
+6 49058.94 294353.6
+7 413.2 2892.4
+5 21555.12 107775.6
+5 37214.58 186072.9
+
+10 21194.59 211945.9
+8 44971.9 359775.2
+4 26046.5 104186
+3 43567.37 130702.1
+5 19565.23 97826.15
+5 7642.55 38212.75
+7 22060 154420
+2 20074.3 40148.6
+2 5442.06 10884.12
+6 38159.29 228955.7
+1 18229 18229
+2 14656.73 29313.46
+3 1286.36 3859.08
+2 11893.8 23787.6
+2 11967.47 23934.94
+4 35411.73 141646.9
+1 15515.24 15515.24
+9 697.87 6280.83
+
+10 20857.23 208572.3
+8 3595.82 28766.56
+7 20144.84 141013.9
+5 30620.75 153103.8
+9 38955.26 350597.3
+2 7534.68 15069.36
+4 5789.5 23158
+8 46278.59 370228.7
+2 14770.13 29540.26
+6 45095.75 270574.5
+8 10393.69 83149.52
+4 38952.78 155811.1
+5 3414.17 17070.85
+7 5129.02 35903.14
+3 15846.45 47539.35
+4 27448.01 109792
+4 5518.35 22073.4
+9 39988.02 359892.2
+3 23079.96 69239.88
+
+
+
+9 14044.67 126402
+2 43693.36 87386.72
+2 14181.47 28362.94
+4 28783.13 115132.5
+2 32432.65 64865.3
+4 29976.58 119906.3
+7 38029.64 266207.5
+
+10 48255.19 482551.9
+9 27971.17 251740.5
+9 46756.46 420808.1
+3 47466.18 142398.5
+1 33193.9 33193.9
+1 46021.88 46021.88
+7 45512.65 318588.6
+9 46924.58 422321.2
+3 37343.19 112029.6
+
+10 14175.96 141759.6
+8 7259.89 58079.12
+3 257.28 771.84
+4 24291.82 97167.28
+2 25919.18 51838.36
+4 24382.42 97529.68
+1 3971.35 3971.35
+5 7739.33 38696.65
+1 34302.92 34302.92
+1 20626.25 20626.25
+9 39545.61 355910.5
+3 23490.33 70470.99
+6 22343.44 134060.6
+5 16279.37 81396.85
+4 26566.32 106265.3
+6 1867.81 11206.86
+
+10 22106.78 221067.8
+3 7467.04 22401.12
+7 27547.81 192834.7
+
+10 22952.77 229527.7
+6 35222.23 211333.4
+8 16240.66 129925.3
+1 12255.87 12255.87
+7 42941.88 300593.2
+
+10 10307.48 103074.8
+10 46270.13 462701.3
+5 33524.03 167620.2
+2 38065.84 76131.68
+
+
+
+10 8465.62 84656.2
+9 1610.18 14491.62
+5 35120.83 175604.2
+6 30775.74 184654.4
+4 47796.53 191186.1
+7 38583.88 270087.2
+6 38368.41 230210.5
+4 48299.85 193199.4
+9 6889.29 62003.61
+
+10 41268.06 412680.6
+5 28065.77 140328.9
+8 25269.25 202154
+2 31615.64 63231.28
+1 17212.99 17212.99
+1 14756.18 14756.18
+5 21694.12 108470.6
+8 5632.88 45063.04
+5 16961.15 84805.75
+3 17500.41 52501.23
+5 47401.02 237005.1
+7 12194.92 85364.44
+8 49052.97 392423.8
+4 22686.59 90746.36
+5 34508.6 172543
+7 21599.35 151195.5
+4 30019.56 120078.2
+5 24358.21 121791.1
+6 16639.76 99838.56
+3 48276.39 144829.2
+9 40069.01 360621.1
+9 31937.15 287434.4
+7 40754.69 285282.8
+
+10 45877.49 458774.9
+5 20994.21 104971.1
+2 3215.11 6430.22
+4 26936.34 107745.4
+9 29470.1 265230.9
+4 31076.31 124305.2
+4 43864.35 175457.4
+9 11808.33 106275
+2 38128.32 76256.64
+9 28222.97 254006.7
+6 21720.56 130323.4
+3 4568.61 13705.83
+
+
+
+3 11492.49 34477.47
+3 23252.08 69756.24
+9 31686.77 285180.9
+2 37278.21 74556.42
+6 12680.8 76084.8
+4 17704.67 70818.68
+5 22734.66 113673.3
+6 36277.76 217666.6
+6 27885.58 167313.5
+
+10 47079.86 470798.6
+2 30201.81 60403.62
+6 32890.28 197341.7
+1 39342.98 39342.98
+5 42114.22 210571.1
+5 15011.99 75059.95
+4 42642.59 170570.4
+6 27168.79 163012.7
+7 31567.62 220973.3
+
+10 44401.64 444016.4
+2 5467.01 10934.02
+7 40635.52 284448.6
+7 26916.23 188413.6
+5 24409.5 122047.5
+
+10 19600.31 196003.1
+3 40119.65 120359
+5 33187.56 165937.8
+3 26807.04 80421.12
+1 19202.88 19202.88
+6 27085.46 162512.8
+3 24462.54 73387.62
+6 25359.39 152156.3
+6 19210.66 115264
+5 414.13 2070.65
+6 9761.46 58568.76
+4 19284.6 77138.4
+4 21098.23 84392.92
+2 1876.89 3753.78
+7 9084.03 63588.21
+3 45959.58 137878.7
+8 8692.39 69539.12
+7 45703.28 319923
+4 30973.53 123894.1
+5 49147.41 245737.1
+
+10 17533.55 175335.5
+
+
+
+5 18457.22 92286.1
+10 43808.06 438080.6
+6 24375.93 146255.6
+4 34969.02 139876.1
+1 17299.04 17299.04
+5 10274.45 51372.25
+
+10 24270.17 242701.7
+10 2066.93 20669.3
+10 13304.47 133044.7
+5 9442.5 47212.5
+
+10 25698.62 256986.2
+8 32219.95 257759.6
+2 14931.2 29862.4
+4 40783.14 163132.6
+5 17824.96 89124.8
+
+10 49217.41 492174.1
+2 36631.23 73262.46
+3 5550.25 16650.75
+1 12225.22 12225.22
+
+10 19819.95 198199.5
+1 42736.43 42736.43
+2 36426.05 72852.1
+1 12121.61 12121.61
+5 11824.36 59121.8
+4 988.45 3953.8
+7 13263.83 92846.81
+6 35023.55 210141.3
+
+10 8630.9 86309
+6 29757.58 178545.5
+2 45538.2 91076.4
+6 19454.75 116728.5
+3 21435.84 64307.52
+1 47618.43 47618.43
+4 25110.56 100442.2
+9 797.71 7179.39
+3 25235.41 75706.23
+8 43467 347736
+9 35691.39 321222.5
+6 28107.77 168646.6
+6 39662.1 237972.6
+5 14533.4 72667
+9 12322.26 110900.3
+
+10 18178.32 181783.2
+9 6282.93 56546.37
+
+
+
+4 40391.3 161565.2
+3 39157.52 117472.6
+5 12334.78 61673.9
+9 38573.17 347158.5
+6 18842.34 113054
+4 20118.35 80473.4
+6 39243.45 235460.7
+
+10 15891.66 158916.6
+1 40350.67 40350.67
+1 47545.23 47545.23
+4 17304.91 69219.64
+6 17079.99 102479.9
+9 44772.96 402956.6
+
+10 32483.32 324833.2
+9 47699.69 429297.2
+2 23127.63 46255.26
+6 16882.56 101295.4
+6 32296.32 193777.9
+3 15090.15 45270.45
+2 30197.53 60395.06
+2 41544.45 83088.9
+8 42593.69 340749.5
+1 26771.99 26771.99
+9 31690.41 285213.7
+6 20913.85 125483.1
+7 36034.1 252238.7
+8 21646.64 173173.1
+1 21553.66 21553.66
+3 17152.2 51456.6
+1 21368.29 21368.29
+7 47413.32 331893.2
+4 2716.24 10864.96
+2 45863.13 91726.26
+5 48228.96 241144.8
+1 31849.44 31849.44
+4 8685.69 34742.76
+2 49685.64 99371.28
+8 10921.12 87368.96
+3 33896.35 101689.1
+4 31512.79 126051.2
+6 17944.07 107664.4
+3 14145.7 42437.1
+3 33186.38 99559.14
+5 24537.11 122685.6
+
+
+
+4 7989.47 31957.88
+6 9784.56 58707.36
+5 47021.1 235105.5
+9 28747.47 258727.2
+
+10 35093.39 350933.9
+3 22843.06 68529.18
+7 38502.79 269519.5
+5 45283.42 226417.1
+6 37149.97 222899.8
+7 23566.47 164965.3
+
+10 1557.12 15571.2
+1 38929.37 38929.37
+2 43357.83 86715.66
+9 30091.26 270821.3
+
+10 3051.95 30519.5
+3 31063.57 93190.71
+
+10 5580.23 55802.3
+8 35859.94 286879.5
+5 47893 239465
+2 47996.02 95992.04
+1 42500.65 42500.65
+8 7543.31 60346.48
+4 7779.34 31117.36
+6 35959.07 215754.4
+7 9471.49 66300.43
+8 26327.39 210619.1
+9 48313.36 434820.2
+2 45217.92 90435.84
+2 40130.21 80260.42
+7 283.1 1981.7
+5 7521.13 37605.65
+5 8055.03 40275.15
+4 28263.33 113053.3
+4 12941.53 51766.12
+1 27918.98 27918.98
+3 21349.35 64048.05
+5 27648.52 138242.6
+5 39484.31 197421.6
+6 2417.66 14505.96
+5 40104.71 200523.6
+4 22929.61 91718.44
+
+10 23757.31 237573.1
+7 6769.87 47389.09
+2 7104.93 14209.86
+
+
+
+2 35430.53 70861.06
+8 44811.59 358492.7
+
+10 16661.37 166613.7
+7 14207.04 99449.28
+8 3220.99 25767.92
+1 21572.48 21572.48
+8 38808.88 310471
+2 6525.25 13050.5
+9 36721.83 330496.5
+1 16506.48 16506.48
+4 45273.26 181093
+1 15061.67 15061.67
+3 30814.91 92444.73
+8 36507.56 292060.5
+1 31247.14 31247.14
+3 15350 46050
+9 7148.05 64332.45
+8 25411.08 203288.6
+
+10 28254.51 282545.1
+5 5069.79 25348.95
+3 39619.15 118857.5
+7 42494.73 297463.1
+6 24739.29 148435.7
+3 43166.95 129500.9
+6 43613.07 261678.4
+2 20357.35 40714.7
+5 40193.89 200969.5
+2 9063.83 18127.66
+5 21830.06 109150.3
+2 39424.04 78848.08
+2 30743.1 61486.2
+3 10131.58 30394.74
+1 20875.52 20875.52
+3 43152.69 129458.1
+1 3239.94 3239.94
+1 10625.65 10625.65
+3 30169.38 90508.14
+2 29914.46 59828.92
+5 30991.63 154958.2
+7 15799.46 110596.2
+6 10404.98 62429.88
+1 21496.95 21496.95
+7 42785.56 299498.9
+
+10 9123.6 91236
+
+
+
+6 35834.15 215004.9
+3 653.97 1961.91
+3 3846.65 11539.95
+
+10 40522.56 405225.6
+4 39917.24 159669
+1 23886.69 23886.69
+1 46629.03 46629.03
+4 27478.45 109913.8
+8 4925.05 39400.4
+8 35023.64 280189.1
+2 49387.2 98774.4
+4 30607.95 122431.8
+
+10 7627.77 76277.7
+3 44146.06 132438.2
+7 31015.64 217109.5
+1 47743.08 47743.08
+
+10 12754.35 127543.5
+7 45883.95 321187.7
+5 16990.85 84954.25
+2 20191.53 40383.06
+8 46866.95 374935.6
+8 20319.29 162554.3
+6 31857.18 191143.1
+2 4160.77 8321.54
+
+10 47314.42 473144.2
+9 34569.56 311126
+8 29747.29 237978.3
+8 24450.18 195601.4
+4 13994.12 55976.48
+9 23583.66 212252.9
+3 25138.65 75415.95
+3 25618.42 76855.26
+3 42044.69 126134.1
+9 33475.97 301283.7
+5 29215.06 146075.3
+1 34619.77 34619.77
+9 33480.07 301320.6
+
+10 8532.9 85329
+7 31899.76 223298.3
+5 30847.69 154238.5
+2 39578.6 79157.2
+8 35028.53 280228.2
+6 6287.85 37727.1
+3 32751.77 98255.31
+
+
+
+9 24421.73 219795.6
+1 31739.18 31739.18
+1 6976.56 6976.56
+4 9989.04 39956.16
+
+10 43146.39 431463.9
+10 48566.78 485667.8
+6 6189.16 37134.96
+3 46910.35 140731.1
+1 25737.43 25737.43
+3 38656.45 115969.4
+6 44566.74 267400.4
+5 16513.54 82567.7
+6 5066.44 30398.64
+
+10 46852.2 468522
+3 18013.26 54039.78
+4 36188.72 144754.9
+3 33517.79 100553.4
+1 3375.35 3375.35
+4 34140.07 136560.3
+2 17345.15 34690.3
+2 46527.93 93055.86
+1 21819.5 21819.5
+4 26365.27 105461.1
+9 34835.55 313520
+8 44625.98 357007.8
+5 7279.34 36396.7
+1 37930.19 37930.19
+9 44322.64 398903.8
+9 35405.54 318649.9
+5 18454.65 92273.25
+9 12971.59 116744.3
+9 2879.01 25911.09
+9 22493.87 202444.8
